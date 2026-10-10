@@ -261,6 +261,14 @@ def validar(sug: Sugestao, dados: dict, conta_dias: int | None = None) -> tuple[
     return probs, rotulos
 
 
+def so_alterados(sug: Sugestao, dados: dict) -> Sugestao:
+    """Os formulários vêm preenchidos com os valores atuais: descarta o que não mudou."""
+    atuais = dados.get("pessoas", {}).get(sug.alvo, {}).get("campos", {}) if sug.tipo == "correcao" else {}
+    norm = lambda v: " ".join(sem_acento(v).split())
+    sug.campos = {k: v for k, v in sug.campos.items() if norm(v) != norm(atuais.get(k, ""))}
+    return sug
+
+
 def comentario(sug: Sugestao, dados: dict, probs, rotulos) -> str:
     pessoas = dados.get("pessoas", {})
     alvo = pessoas.get(sug.alvo, {})
@@ -336,6 +344,7 @@ def cmd_validar(args):
         print("Issue não é uma sugestão de formulário; nada a fazer.")
         return 0
     dados = json.load(open(args.dados, encoding="utf-8"))
+    so_alterados(sug, dados)
     dias = None
     try:
         criado = api("GET", f"/users/{sug.autor_login}")["created_at"][:10]
