@@ -79,14 +79,14 @@
     const [preench, contorno] = cor(no.g);
     const g = el("g", { class: "no", tabindex: 0, role: "button", "aria-label": no.n }, gNos);
     el("rect", { x: -LARG / 2, y: -ALT / 2, width: LARG, height: ALT, rx: 14, fill: preench, stroke: contorno, "stroke-width": 1.6, filter: "url(#sombra)" }, g);
-    const t1 = el("text", { class: "nome", x: 0, y: no.c || no.y ? -5 : 5, "text-anchor": "middle" }, g);
+    const t1 = el("text", { class: "nome", x: 0, y: no.c || no.ano ? -5 : 5, "text-anchor": "middle" }, g);
     t1.textContent = corta(no.n, 19);
-    if (no.c || no.y) {
+    if (no.c || no.ano) {
       const t2 = el("text", { class: "sub", x: 0, y: 13, "text-anchor": "middle" }, g);
-      t2.textContent = corta([no.y, no.c ? "⚭ " + no.c : ""].filter(Boolean).join("  "), 26);
+      t2.textContent = corta([[no.ano, no.f ? "†" : ""].filter(Boolean).join(" "), no.c ? "⚭ " + no.c : ""].filter(Boolean).join("  "), 26);
     }
     const tit = el("title", {}, g);
-    tit.textContent = `${no.n}${no.y ? " (" + no.y + ")" : ""}${no.c ? " ⚭ " + no.c : ""}`;
+    tit.textContent = `${no.n}${no.ano ? " (" + no.ano + ")" : ""}${no.c ? " ⚭ " + no.c : ""}`;
     if ((no.k || []).length) {
       const b = el("g", { class: "botao" }, g);
       el("circle", { cx: 0, cy: -ALT / 2 - 2, r: 11, fill: "#fff", stroke: contorno, "stroke-width": 1.6 }, b);
@@ -200,7 +200,8 @@
         <div><h3>${esc(no.n)}</h3><p class="mini">${no.g}ª geração · ${PARENTESCO[Math.min(no.g - 1, PARENTESCO.length - 1)]}${no.g > 1 ? " de " + esc(raiz.n) : ""}</p></div>
       </div>
       <dl>
-        ${no.y ? `<dt>Nascimento</dt><dd>${esc(no.y)}</dd>` : ""}
+        ${no.ano ? `<dt>Nascimento</dt><dd>${esc(no.ano)}</dd>` : ""}
+        ${no.f ? `<dt>Falecimento</dt><dd>in memoriam</dd>` : ""}
         ${no.c ? `<dt>Cônjuge</dt><dd>${conj}</dd>` : ""}
         <dt>Filhos</dt><dd>${filhos || "nenhum cadastrado"}</dd>
         ${no.desc > filhos ? `<dt>Descendentes</dt><dd>${no.desc}</dd>` : ""}
