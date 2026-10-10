@@ -95,6 +95,9 @@ button:hover { border-color: var(--cor); }
 /* Histórias */
 .historia { background: var(--papel); border: 1px solid var(--linha); border-radius: var(--raio); padding: 1rem 1.3rem; overflow-x: auto; }
 .historia pre, .texto-livre { white-space: pre-wrap; font: .9rem/1.55 ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
+.secao-historia { border-top: 1px solid var(--linha); padding: .35rem 0; }
+.secao-historia > summary { cursor: pointer; font-weight: 600; }
+.secao-historia > .texto-livre { margin: .5rem 0 .3rem; }
 pre.exemplo { background: var(--papel); border: 1px solid var(--linha); border-radius: 8px; padding: .8rem 1rem; overflow-x: auto; font-size: .85rem; line-height: 1.45; }
 
 /* Fotos */
