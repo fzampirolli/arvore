@@ -1026,7 +1026,8 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento_data": "2025"
+    "nascimento_data": "2025",
+    "nascimento_local": "São Paulo, SP"
    }
   },
   "01Giacomo/02Giovanni/01Jose/08Rosa": {
