@@ -755,12 +755,39 @@
    "u": "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis/index.html",
    "ano": 1968,
    "pai": "01Giacomo/02Giovanni/01Jose/07Domingos",
-   "filhos": [],
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis/01Rafael_Moura_Zampirolli",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis/02Eduardo_Moura_Zampirolli"
+   ],
    "vivo": true,
    "campos": {
     "nascimento": "1968 em domicilio, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
     "conjuge": "Cristina Baptista Moura",
     "casamento": "1998, na Igrejinha de São Francisco Chavier, Niterói - RJ"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis/01Rafael_Moura_Zampirolli": {
+   "n": "Rafael Moura Zampirolli",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis/01Rafael_Moura_Zampirolli/index.html",
+   "ano": 2024,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "2024"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis/02Eduardo_Moura_Zampirolli": {
+   "n": "Eduardo Moura Zampirolli",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis/02Eduardo_Moura_Zampirolli/index.html",
+   "ano": 2025,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "2025"
    }
   },
   "01Giacomo/02Giovanni/01Jose/08Rosa": {
