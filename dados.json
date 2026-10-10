@@ -979,11 +979,26 @@
    "u": "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/03Lucas_Zampirolli_Aguiar/index.html",
    "ano": 1995,
    "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete",
-   "filhos": [],
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/03Lucas_Zampirolli_Aguiar/00Maria_Helena"
+   ],
    "vivo": true,
    "campos": {
     "nascimento_data": "1995",
     "nascimento_local": "BH"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/03Lucas_Zampirolli_Aguiar/00Maria_Helena": {
+   "n": "Maria Helena",
+   "g": 7,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/03Lucas_Zampirolli_Aguiar/00Maria_Helena/index.html",
+   "ano": 2010,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/03Lucas_Zampirolli_Aguiar",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento_data": "2010",
+    "nascimento_local": "Cachoeiro de Itapemirim - ES"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis": {
