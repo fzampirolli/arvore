@@ -207,9 +207,17 @@ def interpretar_issue(issue: dict) -> Sugestao | None:
             for k, val in dividir({base: v}).items():
                 sug.campos.setdefault(k, val)
     for texto in (campo("Arquivos"),):
-        for nome, url in re.findall(r"!?\[([^\]]*)\]\((https://[^)\s]+)\)", texto):
+        # Markdown: ![nome](url) ou [arquivo.pdf](url)
+        for nome, url in re.findall(r"!?\[([^\]]*)\]\((https://[^)\s\"']+)\)", texto):
             sug.anexos.append((nome or "arquivo", url))
-        for url in re.findall(r"(?<!\()\b(https://github\.com/user-attachments/[^\s)<>]+)", texto):
+        # HTML (o GitHub insere imagens assim): <img alt="Image" src="https://...">
+        for tag in re.findall(r"<img\b[^>]*>", texto, flags=re.I):
+            m = re.search(r"""src\s*=\s*["']([^"']+)["']""", tag)
+            alt = re.search(r"""alt\s*=\s*["']([^"']*)["']""", tag)
+            if m and m.group(1) not in (u for _, u in sug.anexos):
+                sug.anexos.append(((alt.group(1) if alt else "") or "imagem", m.group(1)))
+        # Endereço solto
+        for url in re.findall(r"""(?<![("'=])\b(https://github\.com/user-attachments/[^\s)<>"']+)""", texto):
             if url not in (u for _, u in sug.anexos):
                 sug.anexos.append(("arquivo", url))
     return sug
