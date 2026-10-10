@@ -27,14 +27,82 @@ ANO_ATUAL = _dt.date.today().year
 # Campos dos formulários (id no YAML -> título no formulário). A ordem é a da tabela.
 CAMPOS = {
     "nome_completo": "Nome completo",
-    "nascimento": "Nascimento",
-    "falecimento": "Falecimento",
+    "nascimento_data": "Data de nascimento",
+    "nascimento_local": "Local de nascimento",
+    "falecimento_data": "Data de falecimento",
+    "falecimento_local": "Local de falecimento",
     "conjuge": "Cônjuge",
-    "casamento": "Casamento",
+    "casamento_data": "Data do casamento",
+    "casamento_local": "Local do casamento",
     "residencia": "Onde morou",
     "observacao": "Outra correção ou informação",
     "historia": "História ou lembrança",
 }
+# Campos guardados juntos no DADOS.TXT ("Nascimento: 16/01/2024, Niterói - RJ"),
+# mas separados no formulário para poder mudar o local sem perder a data (e vice-versa).
+COMPOSTOS = {"nascimento": ("nascimento_data", "nascimento_local"),
+             "falecimento": ("falecimento_data", "falecimento_local"),
+             "casamento": ("casamento_data", "casamento_local")}
+LEGADO = {"Nascimento": "nascimento", "Falecimento": "falecimento", "Casamento": "casamento"}  # formulários antigos
+
+PRIVACIDADE = (
+    "#### 🔒 Por que o site mostra só o **ano** de nascimento de quem pode estar vivo?\n"
+    "É uma regra de privacidade para pessoas nascidas há menos de 100 anos:\n"
+    "1. **Fraude e roubo de identidade:** nome completo, data de nascimento e nomes dos pais são exatamente o que "
+    "bancos, operadoras e serviços públicos usam para confirmar quem é a pessoa — e o site é público e aparece no Google.\n"
+    "2. **Crianças:** a LGPD (art. 14) exige cuidado especial com dados de crianças; datas completas ligadas aos nomes "
+    "dos pais não devem ficar expostas.\n"
+    "3. **É o padrão da genealogia:** FamilySearch, MyHeritage e Ancestry escondem dados de pessoas vivas. "
+    "As datas completas dos antepassados continuam aparecendo.\n\n"
+    "**Esta sugestão também é pública.** Para pessoas vivas, informe aqui só o **ano**. "
+    "Se quiser guardar a data completa no arquivo privado da família, fale diretamente com quem mantém o site."
+)
+
+_RE_DATA_INICIO = re.compile(
+    r"^\s*(~\s*)?(\d{1,2}[-/.]\d{1,2}[-/.](?:\d{4}|\d{2})|(?:\d{1,2}\s+de\s+)?[a-zç]+\s+de\s+\d{4}|\d{4})"
+    r"(\s*,?\s*(?:[àa]s\s*)?\d{1,2}(?::\d{2})?\s*h(?:s|oras)?(?:\s*\d{1,2}\s*m(?:in)?)?)?",
+    re.IGNORECASE)
+_RE_DATA_MEIO = re.compile(r"(~\s*)?\b(\d{1,2}[-/.]\d{1,2}[-/.]\d{4}|1[5-9]\d\d|20\d\d)\b")
+
+
+def separar_data_local(valor: str) -> tuple[str, str]:
+    """'16/01/2024, Niterói - RJ' -> ('16/01/2024', 'Niterói - RJ')."""
+    v = " ".join((valor or "").split())
+    m = _RE_DATA_INICIO.match(v)
+    if m:
+        data, resto = m.group(0).strip(" ,"), v[m.end():]
+    else:
+        m = _RE_DATA_MEIO.search(v)
+        if not m:
+            return "", v.strip(" ,")
+        data, resto = m.group(0).strip(), (v[:m.start()] + " " + v[m.end():])
+        resto = re.sub(r"(?i),?\s*[àa]s\s*\d{1,2}(?::\d{2})?\s*h\w*|\b(?:do|no)\s+dia\b", " ", resto)
+        resto = re.sub(r"\s+([.,])", r"\1", " ".join(resto.split())).strip(" .,")
+    resto = re.sub(r"^[\s,]*(?:(?:em|no|na|local)\b[\s,]*)*", "", resto.strip(), flags=re.IGNORECASE)
+    resto = re.sub(r"[\s,]*(?:\b(?:em|no|na)\s*)?$", "", resto, flags=re.IGNORECASE)
+    return data, resto.strip(" ,")
+
+
+def juntar_data_local(data: str, local: str) -> str:
+    return ", ".join(x for x in (data.strip(), local.strip()) if x)
+
+
+def dividir(campos: dict[str, str]) -> dict[str, str]:
+    """{'nascimento': '1925, Jaciguá'} -> {'nascimento_data': '1925', 'nascimento_local': 'Jaciguá'}."""
+    out = {}
+    for k, v in campos.items():
+        if k in COMPOSTOS:
+            d, l = separar_data_local(v)
+            kd, kl = COMPOSTOS[k]
+            if d:
+                out[kd] = d
+            if l:
+                out[kl] = l
+        else:
+            out[k] = v
+    return out
+
+
 FONTES = [
     "Certidão ou documento oficial",
     "Registro de imigração / lista de navio",
@@ -133,6 +201,11 @@ def interpretar_issue(issue: dict) -> Sugestao | None:
         v = campo(titulo)
         if v:
             sug.campos[chave] = v
+    for titulo, base in LEGADO.items():  # issues abertas com o formulário antigo (data e local juntos)
+        v = campo(titulo)
+        if v:
+            for k, val in dividir({base: v}).items():
+                sug.campos.setdefault(k, val)
     for texto in (campo("Arquivos"),):
         for nome, url in re.findall(r"!?\[([^\]]*)\]\((https://[^)\s]+)\)", texto):
             sug.anexos.append((nome or "arquivo", url))
@@ -198,14 +271,14 @@ def validar(sug: Sugestao, dados: dict, conta_dias: int | None = None) -> tuple[
     if sug.tipo == "foto" and not sug.anexos:
         probs.append(("erro", "Nenhum arquivo foi anexado (arraste a foto ou o PDF para o campo “Arquivos”)."))
 
-    for chave in ("nascimento", "falecimento", "casamento"):
+    for chave in ("nascimento_data", "falecimento_data", "casamento_data"):
         if chave in sug.campos:
             probs += checar_data(CAMPOS[chave], sug.campos[chave])
 
     # Coerência entre gerações
     if alvo:
         pessoa = alvo if sug.tipo != "nova_pessoa" else {"ano": None, "pai": sug.alvo, "filhos": alvo.get("filhos", [])[:0]}
-        nasc = ano(sug.campos.get("nascimento", "")) or pessoa.get("ano")
+        nasc = ano(sug.campos.get("nascimento_data", "")) or pessoa.get("ano")
         pai = pessoas.get(pessoa.get("pai") or "")
         if nasc and pai and pai.get("ano"):
             dif = nasc - pai["ano"]
@@ -218,13 +291,13 @@ def validar(sug: Sugestao, dados: dict, conta_dias: int | None = None) -> tuple[
                 fa = pessoas.get(f, {}).get("ano")
                 if fa and fa - nasc < 13:
                     probs.append(("erro", f"Nascimento em {nasc}, mas o(a) filho(a) {pessoas[f]['n']} nasceu em {fa}."))
-        fal = ano(sug.campos.get("falecimento", ""))
+        fal = ano(sug.campos.get("falecimento_data", ""))
         if fal and nasc:
             if fal < nasc:
                 probs.append(("erro", f"Falecimento ({fal}) antes do nascimento ({nasc})."))
             elif fal - nasc > 115:
                 probs.append(("aviso", f"Idade de {fal - nasc} anos ao falecer. Confira."))
-        cas = ano(sug.campos.get("casamento", ""))
+        cas = ano(sug.campos.get("casamento_data", ""))
         if cas and nasc and cas - nasc < 14:
             probs.append(("erro", f"Casamento em {cas} com a pessoa nascida em {nasc}."))
         if sug.tipo == "nova_pessoa":
@@ -235,12 +308,12 @@ def validar(sug: Sugestao, dados: dict, conta_dias: int | None = None) -> tuple[
                     probs.append(("aviso", f"Já existe {n} entre os filhos de {alvo['n']}. Não é a mesma pessoa?"))
 
     # Privacidade: issues são públicas
-    vivo = bool(alvo and alvo.get("vivo")) if sug.tipo != "nova_pessoa" else not sug.campos.get("falecimento")
+    vivo = bool(alvo and alvo.get("vivo")) if sug.tipo != "nova_pessoa" else not (sug.campos.get("falecimento_data") or sug.campos.get("falecimento_local"))
     texto = " ".join([*sug.campos.values(), sug.fonte_detalhe, sug.legenda, sug.nome_novo])
     for regex, nome in SENSIVEIS:
         if regex.search(texto):
             probs.append(("sensivel", f"A sugestão parece conter {nome}. Esta página é pública: edite a issue e remova."))
-    if vivo and _RE_DATA.search(" ".join(sug.campos.get(k, "") for k in ("nascimento", "casamento"))):
+    if vivo and _RE_DATA.search(" ".join(sug.campos.get(k, "") for k in ("nascimento_data", "casamento_data"))):
         probs.append(("sensivel", "Data completa de uma pessoa que pode estar viva. O site público mostra só o ano; prefira informar só o ano."))
 
     # Vandalismo / spam

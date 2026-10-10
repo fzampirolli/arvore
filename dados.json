@@ -16,7 +16,7 @@
    ],
    "vivo": false,
    "campos": {
-    "nascimento": "~ 1830",
+    "nascimento_data": "~ 1830",
     "conjuge": "Luigia Maria Braggio (Nascida ~1834 na província de Rovigo)"
    }
   },
@@ -32,7 +32,7 @@
    ],
    "vivo": false,
    "campos": {
-    "nascimento": "~1855",
+    "nascimento_data": "~1855",
     "conjuge": "Maria Franchin (27 anos)"
    }
   },
@@ -94,9 +94,11 @@
    ],
    "vivo": false,
    "campos": {
-    "nascimento": "~ 1886 na Itália",
+    "nascimento_data": "~ 1886",
+    "nascimento_local": "Itália",
     "conjuge": "Dosolina Dalfiôr (~ 1888) natural da Itália, filha de Ferdinando Daifior e Maria Pauli",
-    "casamento": "24/05/1913 no distrito de São José, comarca de Cachoeiro do Itapemirim. Ela com 24 anos e ele com 27 anos."
+    "casamento_data": "24/05/1913",
+    "casamento_local": "distrito de São José, comarca de Cachoeiro do Itapemirim. Ela com 24 anos e ele com 27 anos."
    }
   },
   "01Giacomo/02Giovanni/01Jose/01Maria": {
@@ -108,8 +110,8 @@
    "filhos": [],
    "vivo": false,
    "campos": {
-    "nascimento": "~ fevereiro de 1912",
-    "falecimento": "in memoriam"
+    "nascimento_data": "~ fevereiro de 1912",
+    "falecimento_local": "in memoriam"
    }
   },
   "01Giacomo/02Giovanni/01Jose/02Jacinta": {
@@ -468,7 +470,7 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1956",
+    "nascimento_data": "1956",
     "conjuge": "Adil"
    }
   },
@@ -481,7 +483,7 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1957"
+    "nascimento_data": "1957"
    }
   },
   "01Giacomo/02Giovanni/01Jose/06Josefina/03Maria_Helena": {
@@ -493,7 +495,7 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1958"
+    "nascimento_data": "1958"
    }
   },
   "01Giacomo/02Giovanni/01Jose/06Josefina/04Mateus": {
@@ -505,7 +507,7 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1960"
+    "nascimento_data": "1960"
    }
   },
   "01Giacomo/02Giovanni/01Jose/06Josefina/05Mauro": {
@@ -517,7 +519,7 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1962"
+    "nascimento_data": "1962"
    }
   },
   "01Giacomo/02Giovanni/01Jose/06Josefina/06Murilo": {
@@ -529,7 +531,7 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1967"
+    "nascimento_data": "1967"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos": {
@@ -553,9 +555,11 @@
    ],
    "vivo": false,
    "campos": {
-    "nascimento": "11-02-1925 no distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "nascimento_data": "11-02-1925",
+    "nascimento_local": "distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
     "conjuge": "Rosalina Balarini (28-01-1931)",
-    "casamento": "01-06-1950, Jaciguá",
+    "casamento_data": "01-06-1950",
+    "casamento_local": "Jaciguá",
     "residencia": "Cachoeiro de Itapemirim - ES"
    }
   },
@@ -571,9 +575,11 @@
    ],
    "vivo": true,
    "campos": {
-    "nascimento": "1951 no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "nascimento_data": "1951",
+    "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
     "conjuge": "Wilton Gomes Costa Sobrinho",
-    "casamento": "1983, local Matriz Velha - Cach."
+    "casamento_data": "1983",
+    "casamento_local": "Matriz Velha - Cach."
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/01Lourdes/01Wilton_Gomes_Costa_Junior": {
@@ -585,7 +591,8 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1984, local Cachoeiro de Itapemirim-ES"
+    "nascimento_data": "1984",
+    "nascimento_local": "Cachoeiro de Itapemirim-ES"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/01Lourdes/02Polliana_Gomes_Costa": {
@@ -597,7 +604,8 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1988, local Vitória"
+    "nascimento_data": "1988",
+    "nascimento_local": "Vitória"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/02Ilario": {
@@ -609,8 +617,9 @@
    "filhos": [],
    "vivo": false,
    "campos": {
-    "nascimento": "27-10-1952,, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
-    "falecimento": "falecido com cinco meses de idade"
+    "nascimento_data": "27-10-1952",
+    "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "falecimento_local": "falecido com cinco meses de idade"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose": {
@@ -626,7 +635,8 @@
    ],
    "vivo": true,
    "campos": {
-    "nascimento": "1955, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "nascimento_data": "1955",
+    "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
     "conjuge": "Marlene Buzon"
    }
   },
@@ -649,7 +659,7 @@
    "filhos": [],
    "vivo": false,
    "campos": {
-    "falecimento": "in memoriam"
+    "falecimento_local": "in memoriam"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose/03Tiago": {
@@ -674,7 +684,8 @@
    ],
    "vivo": true,
    "campos": {
-    "nascimento": "1955, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "nascimento_data": "1955",
+    "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
     "conjuge": "Marta Tomazini"
    }
   },
@@ -687,7 +698,7 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1981"
+    "nascimento_data": "1981"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/04Pedro/02Aline": {
@@ -699,7 +710,7 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1982"
+    "nascimento_data": "1982"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/05Luzia": {
@@ -711,8 +722,9 @@
    "filhos": [],
    "vivo": false,
    "campos": {
-    "nascimento": "21-02-1957,, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
-    "falecimento": "falecida ao dois anos e seis meses"
+    "nascimento_data": "21-02-1957",
+    "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "falecimento_local": "falecida ao dois anos e seis meses"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/06Braz": {
@@ -727,7 +739,8 @@
    ],
    "vivo": true,
    "campos": {
-    "nascimento": "1958,, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "nascimento_data": "1958",
+    "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
     "conjuge": "Helena Pereira"
    }
   },
@@ -740,7 +753,7 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1986"
+    "nascimento_data": "1986"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/06Braz/02Fabricio": {
@@ -752,7 +765,7 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1999"
+    "nascimento_data": "1999"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/07Fernando": {
@@ -767,9 +780,11 @@
    ],
    "vivo": true,
    "campos": {
-    "nascimento": "1960 em Santana distrito de Jaciguá, município de Cachoeiro de Itapemirim - ES",
+    "nascimento_data": "1960",
+    "nascimento_local": "Santana distrito de Jaciguá, município de Cachoeiro de Itapemirim - ES",
     "conjuge": "Maria do Carmo Batista Zampirolli (Carminha)",
-    "casamento": "em Belo Horizonte no Civil 1984. No Religioso 1984, na Capela do Colégio das Irmãs do Bom Pastor."
+    "casamento_data": "1984",
+    "casamento_local": "Belo Horizonte no Civil. No Religioso 1984, na Capela do Colégio das Irmãs do Bom Pastor"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/07Fernando/01Filipe_Batista": {
@@ -781,7 +796,8 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "em Belo Horizonte no Hospital Frederico Hozanan 1987."
+    "nascimento_data": "1987",
+    "nascimento_local": "Belo Horizonte no Hospital Frederico Hozanan"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/07Fernando/02Alice_Batista": {
@@ -793,7 +809,8 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "em Vespasiano, na Maternidade Vespasiano Ltda. (Pertence a grande Belo Horizonte) 1991."
+    "nascimento_data": "1991",
+    "nascimento_local": "Vespasiano, na Maternidade Vespasiano Ltda. (Pertence a grande Belo Horizonte)"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/08Joao_Bosco": {
@@ -808,9 +825,10 @@
    ],
    "vivo": true,
    "campos": {
-    "nascimento": "1962, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "nascimento_data": "1962",
+    "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
     "conjuge": "Lúcia neves gomes",
-    "casamento": "1985"
+    "casamento_data": "1985"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/08Joao_Bosco/01Igor_Nevex": {
@@ -822,7 +840,7 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1987"
+    "nascimento_data": "1987"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/08Joao_Bosco/02Ivan_Neves": {
@@ -835,7 +853,7 @@
    "vivo": true,
    "campos": {
     "nome_completo": "Ivan Neves Zampirolli",
-    "nascimento": "1992"
+    "nascimento_data": "1992"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo": {
@@ -852,7 +870,8 @@
    ],
    "vivo": true,
    "campos": {
-    "nascimento": "1964, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "nascimento_data": "1964",
+    "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
     "conjuge": "Alzira Rocha Dias"
    }
   },
@@ -865,7 +884,8 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1987, local Vitória"
+    "nascimento_data": "1987",
+    "nascimento_local": "Vitória"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/02Natani": {
@@ -877,7 +897,8 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1994, local Cachoeiro de Itapemirim"
+    "nascimento_data": "1994",
+    "nascimento_local": "Cachoeiro de Itapemirim"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/03Alan_Pablo_Dias": {
@@ -889,7 +910,8 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1994, local Cachoeiro de Itapemirim"
+    "nascimento_data": "1994",
+    "nascimento_local": "Cachoeiro de Itapemirim"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/04Douglas_Sennas_Dias_Galiasso": {
@@ -901,7 +923,8 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1997, local Cachoeiro de Itapemirim"
+    "nascimento_data": "1997",
+    "nascimento_local": "Cachoeiro de Itapemirim"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete": {
@@ -917,9 +940,11 @@
    ],
    "vivo": true,
    "campos": {
-    "nascimento": "1965, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "nascimento_data": "1965",
+    "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
     "conjuge": "Carlos Alberto Diniz Aguiar",
-    "casamento": "1987, 17 local Cachoeiro - Igreja Nossa Senhora dos Passos (Matriz Velha)"
+    "casamento_data": "1987",
+    "casamento_local": "17 local Cachoeiro - Igreja Nossa Senhora dos Passos (Matriz Velha)"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/01Victor_Hugo_Zampirolli_Aguiar": {
@@ -931,7 +956,8 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1988, local BH"
+    "nascimento_data": "1988",
+    "nascimento_local": "BH"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/02Ana_Caroline_Diniz_Zampirolli": {
@@ -943,7 +969,8 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1991, local BH"
+    "nascimento_data": "1991",
+    "nascimento_local": "BH"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/03Lucas_Zampirolli_Aguiar": {
@@ -955,7 +982,8 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "1995, local BH"
+    "nascimento_data": "1995",
+    "nascimento_local": "BH"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis": {
@@ -970,9 +998,11 @@
    ],
    "vivo": true,
    "campos": {
-    "nascimento": "1968 em domicilio, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "nascimento_data": "1968",
+    "nascimento_local": "domicilio, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
     "conjuge": "Cristina Baptista Moura",
-    "casamento": "1998, na Igrejinha de São Francisco Chavier, Niterói - RJ"
+    "casamento_data": "1998",
+    "casamento_local": "Igrejinha de São Francisco Chavier, Niterói - RJ"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis/01Rafael_Moura_Zampirolli": {
@@ -984,7 +1014,7 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "2024"
+    "nascimento_data": "2024"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis/02Eduardo_Moura_Zampirolli": {
@@ -996,7 +1026,7 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "nascimento": "2025"
+    "nascimento_data": "2025"
    }
   },
   "01Giacomo/02Giovanni/01Jose/08Rosa": {
@@ -1469,7 +1499,7 @@
    ],
    "vivo": false,
    "campos": {
-    "nascimento": "~ 1865"
+    "nascimento_data": "~ 1865"
    }
   },
   "01Giacomo/03Domenico/01Alexandre": {
@@ -1521,7 +1551,7 @@
    "filhos": [],
    "vivo": false,
    "campos": {
-    "nascimento": "~ 1873"
+    "nascimento_data": "~ 1873"
    }
   },
   "01Giacomo/05Tereza_Felicita": {
@@ -1541,7 +1571,8 @@
    ],
    "vivo": false,
    "campos": {
-    "nascimento": "Itália em 20/07/1878",
+    "nascimento_data": "20/07/1878",
+    "nascimento_local": "Itália",
     "conjuge": "Giuseppe Valentim De Angeli",
     "residencia": "Jaciguá"
    }
@@ -1615,7 +1646,7 @@
    "filhos": [],
    "vivo": false,
    "campos": {
-    "falecimento": "in memoriam",
+    "falecimento_local": "in memoriam",
     "residencia": "Jacigua"
    }
   },
@@ -1663,7 +1694,8 @@
    ],
    "vivo": false,
    "campos": {
-    "nascimento": "~1890, Itália",
+    "nascimento_data": "~1890",
+    "nascimento_local": "Itália",
     "conjuge": "Catarina Magri"
    }
   },
@@ -2223,7 +2255,8 @@
    ],
    "vivo": false,
    "campos": {
-    "nascimento": "~1861, Mirândola, Província de Módena, Itália",
+    "nascimento_data": "~1861",
+    "nascimento_local": "Mirândola, Província de Módena, Itália",
     "conjuge": "Mansueta Polastri (~1860)"
    }
   },
@@ -2348,7 +2381,8 @@
    "filhos": [],
    "vivo": false,
    "campos": {
-    "nascimento": "~1890, Itália",
+    "nascimento_data": "~1890",
+    "nascimento_local": "Itália",
     "conjuge": "Francisco"
    }
   },
@@ -2368,7 +2402,8 @@
    ],
    "vivo": false,
    "campos": {
-    "nascimento": "~1889, Itália",
+    "nascimento_data": "~1889",
+    "nascimento_local": "Itália",
     "conjuge": "Hortência Laquini"
    }
   },
@@ -2447,7 +2482,8 @@
    ],
    "vivo": false,
    "campos": {
-    "nascimento": "~1890, Itália",
+    "nascimento_data": "~1890",
+    "nascimento_local": "Itália",
     "conjuge": "JÚLIO SIPRIANI"
    }
   },
@@ -2707,7 +2743,8 @@
    ],
    "vivo": false,
    "campos": {
-    "nascimento": "~1887, Itália",
+    "nascimento_data": "~1887",
+    "nascimento_local": "Itália",
     "conjuge": "Luiz Fabris"
    }
   },

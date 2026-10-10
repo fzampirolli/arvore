@@ -20,19 +20,37 @@ body:
       description: "Nome completo, como nos documentos."
     validations:
       required: false
-  - type: input
-    id: nascimento
+  - type: markdown
     attributes:
-      label: "Nascimento"
-      description: "Data (dd/mm/aaaa) e local. Para pessoas vivas, só o ano e o local."
-      placeholder: "ex.: 11/02/1925, Jaciguá, Cachoeiro de Itapemirim - ES"
+      value: "#### 🔒 Por que o site mostra só o **ano** de nascimento de quem pode estar vivo?\nÉ uma regra de privacidade para pessoas nascidas há menos de 100 anos:\n1. **Fraude e roubo de identidade:** nome completo, data de nascimento e nomes dos pais são exatamente o que bancos, operadoras e serviços públicos usam para confirmar quem é a pessoa — e o site é público e aparece no Google.\n2. **Crianças:** a LGPD (art. 14) exige cuidado especial com dados de crianças; datas completas ligadas aos nomes dos pais não devem ficar expostas.\n3. **É o padrão da genealogia:** FamilySearch, MyHeritage e Ancestry escondem dados de pessoas vivas. As datas completas dos antepassados continuam aparecendo.\n\n**Esta sugestão também é pública.** Para pessoas vivas, informe aqui só o **ano**. Se quiser guardar a data completa no arquivo privado da família, fale diretamente com quem mantém o site."
+  - type: input
+    id: nascimento_data
+    attributes:
+      label: "Data de nascimento"
+      description: "dd/mm/aaaa, ou só o ano (use ~ se for aproximado: ~1890). Pessoa viva: só o ano."
+      placeholder: "ex.: 11/02/1925  ou  2024"
     validations:
       required: false
   - type: input
-    id: falecimento
+    id: nascimento_local
     attributes:
-      label: "Falecimento"
-      description: "Data e local, se a pessoa já faleceu."
+      label: "Local de nascimento"
+      description: "Cidade ou distrito e estado (ou país)."
+      placeholder: "ex.: Jaciguá, Cachoeiro de Itapemirim - ES"
+    validations:
+      required: false
+  - type: input
+    id: falecimento_data
+    attributes:
+      label: "Data de falecimento"
+      description: "Só se a pessoa já faleceu. dd/mm/aaaa, ou só o ano (use ~ se for aproximado: ~1890)."
+    validations:
+      required: false
+  - type: input
+    id: falecimento_local
+    attributes:
+      label: "Local de falecimento"
+      description: "Cidade ou distrito e estado (ou país)."
     validations:
       required: false
   - type: input
@@ -43,10 +61,17 @@ body:
     validations:
       required: false
   - type: input
-    id: casamento
+    id: casamento_data
     attributes:
-      label: "Casamento"
-      description: "Data e local do casamento."
+      label: "Data do casamento"
+      description: "dd/mm/aaaa, ou só o ano (use ~ se for aproximado: ~1890). Pessoa viva: só o ano."
+    validations:
+      required: false
+  - type: input
+    id: casamento_local
+    attributes:
+      label: "Local do casamento"
+      description: "Cidade e, se souber, a igreja ou o cartório."
     validations:
       required: false
   - type: input
