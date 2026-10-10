@@ -59,6 +59,7 @@ ROTULOS = {
     "aplicado": ("90A4AE", "Já está no site"),
     "rejeitado": ("BDBDBD", "Não será aplicado"),
     "erro ao aplicar": ("E57373", "A automação não conseguiu aplicar; veja o comentário"),
+    "forçar": ("6D4C41", "Junto com 'aprovado': aplica mesmo com erros apontados pelo robô"),
 }
 
 

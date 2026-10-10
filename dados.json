@@ -119,13 +119,7 @@
    "ano": null,
    "pai": "01Giacomo/02Giovanni/01Jose",
    "filhos": [
-    "01Giacomo/02Giovanni/01Jose/02Jacinta/01Arlindo",
-    "01Giacomo/02Giovanni/01Jose/02Jacinta/02Antonio",
-    "01Giacomo/02Giovanni/01Jose/02Jacinta/03Luiza",
-    "01Giacomo/02Giovanni/01Jose/02Jacinta/04Natalina",
-    "01Giacomo/02Giovanni/01Jose/02Jacinta/05Jose",
-    "01Giacomo/02Giovanni/01Jose/02Jacinta/06Afonso",
-    "01Giacomo/02Giovanni/01Jose/02Jacinta/07Santo"
+    "01Giacomo/02Giovanni/01Jose/02Jacinta/03Luiza"
    ],
    "vivo": false,
    "campos": {
@@ -133,70 +127,10 @@
     "residencia": "norte do ES"
    }
   },
-  "01Giacomo/02Giovanni/01Jose/02Jacinta/01Arlindo": {
-   "n": "Arlindo",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/01Arlindo/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/02Jacinta",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/02Jacinta/02Antonio": {
-   "n": "Antonio",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/02Antonio/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/02Jacinta",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
   "01Giacomo/02Giovanni/01Jose/02Jacinta/03Luiza": {
    "n": "Luiza",
    "g": 5,
    "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/03Luiza/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/02Jacinta",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/02Jacinta/04Natalina": {
-   "n": "Natalina",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/04Natalina/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/02Jacinta",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/02Jacinta/05Jose": {
-   "n": "Jose",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/05Jose/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/02Jacinta",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/02Jacinta/06Afonso": {
-   "n": "Afonso",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/06Afonso/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/02Jacinta",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/02Jacinta/07Santo": {
-   "n": "Santo",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/07Santo/index.html",
    "ano": null,
    "pai": "01Giacomo/02Giovanni/01Jose/02Jacinta",
    "filhos": [],
@@ -210,13 +144,7 @@
    "ano": null,
    "pai": "01Giacomo/02Giovanni/01Jose",
    "filhos": [
-    "01Giacomo/02Giovanni/01Jose/03Antonio/01Ana",
-    "01Giacomo/02Giovanni/01Jose/03Antonio/02Neusa",
-    "01Giacomo/02Giovanni/01Jose/03Antonio/03Margarida",
-    "01Giacomo/02Giovanni/01Jose/03Antonio/04Sebartiao",
-    "01Giacomo/02Giovanni/01Jose/03Antonio/05Elias",
-    "01Giacomo/02Giovanni/01Jose/03Antonio/06Odete",
-    "01Giacomo/02Giovanni/01Jose/03Antonio/07Penha"
+    "01Giacomo/02Giovanni/01Jose/03Antonio/01Ana"
    ],
    "vivo": false,
    "campos": {
@@ -234,66 +162,6 @@
    "vivo": true,
    "campos": {}
   },
-  "01Giacomo/02Giovanni/01Jose/03Antonio/02Neusa": {
-   "n": "Neusa",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/03Antonio/02Neusa/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/03Antonio",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/03Antonio/03Margarida": {
-   "n": "Margarida",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/03Antonio/03Margarida/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/03Antonio",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/03Antonio/04Sebartiao": {
-   "n": "Sebartiao",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/03Antonio/04Sebartiao/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/03Antonio",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/03Antonio/05Elias": {
-   "n": "Elias",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/03Antonio/05Elias/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/03Antonio",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/03Antonio/06Odete": {
-   "n": "Odete",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/03Antonio/06Odete/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/03Antonio",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/03Antonio/07Penha": {
-   "n": "Penha",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/03Antonio/07Penha/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/03Antonio",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
   "01Giacomo/02Giovanni/01Jose/04Afonso": {
    "n": "Afonso",
    "g": 4,
@@ -304,14 +172,7 @@
     "01Giacomo/02Giovanni/01Jose/04Afonso/01Luiz",
     "01Giacomo/02Giovanni/01Jose/04Afonso/02Rita",
     "01Giacomo/02Giovanni/01Jose/04Afonso/03Carlos",
-    "01Giacomo/02Giovanni/01Jose/04Afonso/04Madalena",
-    "01Giacomo/02Giovanni/01Jose/04Afonso/05Geraldo",
-    "01Giacomo/02Giovanni/01Jose/04Afonso/06Helvecio",
-    "01Giacomo/02Giovanni/01Jose/04Afonso/07Tereza",
-    "01Giacomo/02Giovanni/01Jose/04Afonso/08Valentim",
-    "01Giacomo/02Giovanni/01Jose/04Afonso/09Cecilia",
-    "01Giacomo/02Giovanni/01Jose/04Afonso/10Silvio",
-    "01Giacomo/02Giovanni/01Jose/04Afonso/11Rosa_Ines"
+    "01Giacomo/02Giovanni/01Jose/04Afonso/07Tereza"
    ],
    "vivo": false,
    "campos": {
@@ -349,80 +210,10 @@
    "vivo": true,
    "campos": {}
   },
-  "01Giacomo/02Giovanni/01Jose/04Afonso/04Madalena": {
-   "n": "Madalena",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/04Madalena/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/04Afonso/05Geraldo": {
-   "n": "Geraldo",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/05Geraldo/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/04Afonso/06Helvecio": {
-   "n": "Helvecio",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/06Helvecio/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
   "01Giacomo/02Giovanni/01Jose/04Afonso/07Tereza": {
    "n": "Tereza",
    "g": 5,
    "u": "01Giacomo/02Giovanni/01Jose/04Afonso/07Tereza/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/04Afonso/08Valentim": {
-   "n": "Valentim",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/08Valentim/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/04Afonso/09Cecilia": {
-   "n": "Cecilia",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/09Cecilia/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/04Afonso/10Silvio": {
-   "n": "Silvio",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/10Silvio/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/04Afonso/11Rosa_Ines": {
-   "n": "Rosa Ines",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/11Rosa_Ines/index.html",
    "ano": null,
    "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
    "filhos": [],
@@ -978,68 +769,12 @@
    "u": "01Giacomo/02Giovanni/01Jose/08Rosa/index.html",
    "ano": null,
    "pai": "01Giacomo/02Giovanni/01Jose",
-   "filhos": [
-    "01Giacomo/02Giovanni/01Jose/08Rosa/00Elizabeth",
-    "01Giacomo/02Giovanni/01Jose/08Rosa/00Elizete",
-    "01Giacomo/02Giovanni/01Jose/08Rosa/00Jose_Henrique",
-    "01Giacomo/02Giovanni/01Jose/08Rosa/00Maria_Aparecida",
-    "01Giacomo/02Giovanni/01Jose/08Rosa/00Ronaldo"
-   ],
+   "filhos": [],
    "vivo": false,
    "campos": {
     "conjuge": "Aristides Basso",
     "residencia": "norte do ES"
    }
-  },
-  "01Giacomo/02Giovanni/01Jose/08Rosa/00Elizabeth": {
-   "n": "Elizabeth",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/08Rosa/00Elizabeth/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/08Rosa",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/08Rosa/00Elizete": {
-   "n": "Elizete",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/08Rosa/00Elizete/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/08Rosa",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/08Rosa/00Jose_Henrique": {
-   "n": "Jose Henrique",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/08Rosa/00Jose_Henrique/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/08Rosa",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/08Rosa/00Maria_Aparecida": {
-   "n": "Maria Aparecida",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/08Rosa/00Maria_Aparecida/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/08Rosa",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/08Rosa/00Ronaldo": {
-   "n": "Ronaldo",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/08Rosa/00Ronaldo/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/08Rosa",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
   },
   "01Giacomo/02Giovanni/01Jose/09Benjamim": {
    "n": "Benjamim",
@@ -1052,7 +787,6 @@
     "01Giacomo/02Giovanni/01Jose/09Benjamim/02Marilucia",
     "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice",
     "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli",
-    "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana",
     "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder"
    ],
    "vivo": false,
@@ -1068,8 +802,7 @@
    "ano": null,
    "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim",
    "filhos": [
-    "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene/01Andre_Zampirolli_De_Jesus",
-    "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene/02Eduardo_Zampirolli_De_Jesus"
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene/01Andre_Zampirolli_De_Jesus"
    ],
    "vivo": true,
    "campos": {
@@ -1080,16 +813,6 @@
    "n": "Andre Zampirolli De Jesus",
    "g": 6,
    "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene/01Andre_Zampirolli_De_Jesus/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene/02Eduardo_Zampirolli_De_Jesus": {
-   "n": "Eduardo Zampirolli De Jesus",
-   "g": 6,
-   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene/02Eduardo_Zampirolli_De_Jesus/index.html",
    "ano": null,
    "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene",
    "filhos": [],
@@ -1112,34 +835,11 @@
    "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/index.html",
    "ano": null,
    "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim",
-   "filhos": [
-    "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/01Fernando_Zampirolli_Azevedo",
-    "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/02Benjamim_Zampirolli_Azevedo"
-   ],
+   "filhos": [],
    "vivo": true,
    "campos": {
     "conjuge": "Evaldo Azevedo"
    }
-  },
-  "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/01Fernando_Zampirolli_Azevedo": {
-   "n": "Fernando Zampirolli Azevedo",
-   "g": 6,
-   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/01Fernando_Zampirolli_Azevedo/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/02Benjamim_Zampirolli_Azevedo": {
-   "n": "Benjamim Zampirolli Azevedo",
-   "g": 6,
-   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/02Benjamim_Zampirolli_Azevedo/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
   },
   "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli": {
    "n": "Marli",
@@ -1147,67 +847,11 @@
    "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/index.html",
    "ano": null,
    "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim",
-   "filhos": [
-    "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/01Bernardo_Zampirolli_Moreira",
-    "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/02Filipe_Zampirolli_Moreira"
-   ],
+   "filhos": [],
    "vivo": true,
    "campos": {
     "conjuge": "Adelsom Moreira"
    }
-  },
-  "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/01Bernardo_Zampirolli_Moreira": {
-   "n": "Bernardo Zampirolli Moreira",
-   "g": 6,
-   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/01Bernardo_Zampirolli_Moreira/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/02Filipe_Zampirolli_Moreira": {
-   "n": "Filipe Zampirolli Moreira",
-   "g": 6,
-   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/02Filipe_Zampirolli_Moreira/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana": {
-   "n": "Heliana",
-   "g": 5,
-   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim",
-   "filhos": [
-    "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana/01Gabriela",
-    "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana/02Gabriel"
-   ],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana/01Gabriela": {
-   "n": "Gabriela",
-   "g": 6,
-   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana/01Gabriela/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana/02Gabriel": {
-   "n": "Gabriel",
-   "g": 6,
-   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana/02Gabriel/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
   },
   "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder": {
    "n": "Helder",
@@ -1215,23 +859,11 @@
    "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder/index.html",
    "ano": null,
    "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim",
-   "filhos": [
-    "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder/01Yuri"
-   ],
+   "filhos": [],
    "vivo": true,
    "campos": {
     "conjuge": "Juliana"
    }
-  },
-  "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder/01Yuri": {
-   "n": "Yuri",
-   "g": 6,
-   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder/01Yuri/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
   },
   "01Giacomo/02Giovanni/02Maria_Regina": {
    "n": "Maria Regina",
@@ -1251,67 +883,11 @@
    "u": "01Giacomo/02Giovanni/03Angelo/index.html",
    "ano": null,
    "pai": "01Giacomo/02Giovanni",
-   "filhos": [
-    "01Giacomo/02Giovanni/03Angelo/01Aurelio",
-    "01Giacomo/02Giovanni/03Angelo/02Virgilio",
-    "01Giacomo/02Giovanni/03Angelo/03Lurindo",
-    "01Giacomo/02Giovanni/03Angelo/04Constante",
-    "01Giacomo/02Giovanni/03Angelo/05Elizeu"
-   ],
+   "filhos": [],
    "vivo": false,
    "campos": {
     "conjuge": "Carolina Jacomelli"
    }
-  },
-  "01Giacomo/02Giovanni/03Angelo/01Aurelio": {
-   "n": "Aurelio",
-   "g": 4,
-   "u": "01Giacomo/02Giovanni/03Angelo/01Aurelio/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/03Angelo",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/03Angelo/02Virgilio": {
-   "n": "Virgilio",
-   "g": 4,
-   "u": "01Giacomo/02Giovanni/03Angelo/02Virgilio/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/03Angelo",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/03Angelo/03Lurindo": {
-   "n": "Lurindo",
-   "g": 4,
-   "u": "01Giacomo/02Giovanni/03Angelo/03Lurindo/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/03Angelo",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/03Angelo/04Constante": {
-   "n": "Constante",
-   "g": 4,
-   "u": "01Giacomo/02Giovanni/03Angelo/04Constante/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/03Angelo",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/03Angelo/05Elizeu": {
-   "n": "Elizeu",
-   "g": 4,
-   "u": "01Giacomo/02Giovanni/03Angelo/05Elizeu/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/03Angelo",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
   },
   "01Giacomo/02Giovanni/04Cesar": {
    "n": "Cesar",
@@ -1319,45 +895,11 @@
    "u": "01Giacomo/02Giovanni/04Cesar/index.html",
    "ano": null,
    "pai": "01Giacomo/02Giovanni",
-   "filhos": [
-    "01Giacomo/02Giovanni/04Cesar/01Joao",
-    "01Giacomo/02Giovanni/04Cesar/02Albino",
-    "01Giacomo/02Giovanni/04Cesar/03Fernando"
-   ],
+   "filhos": [],
    "vivo": false,
    "campos": {
     "conjuge": "Maria Zanette"
    }
-  },
-  "01Giacomo/02Giovanni/04Cesar/01Joao": {
-   "n": "Joao",
-   "g": 4,
-   "u": "01Giacomo/02Giovanni/04Cesar/01Joao/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/04Cesar",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/04Cesar/02Albino": {
-   "n": "Albino",
-   "g": 4,
-   "u": "01Giacomo/02Giovanni/04Cesar/02Albino/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/04Cesar",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/04Cesar/03Fernando": {
-   "n": "Fernando",
-   "g": 4,
-   "u": "01Giacomo/02Giovanni/04Cesar/03Fernando/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/04Cesar",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
   },
   "01Giacomo/02Giovanni/05Amalia": {
    "n": "Amalia",
@@ -1377,56 +919,11 @@
    "u": "01Giacomo/02Giovanni/06Francisco/index.html",
    "ano": null,
    "pai": "01Giacomo/02Giovanni",
-   "filhos": [
-    "01Giacomo/02Giovanni/06Francisco/01Vicenti",
-    "01Giacomo/02Giovanni/06Francisco/02Valdir",
-    "01Giacomo/02Giovanni/06Francisco/03Valdelino",
-    "01Giacomo/02Giovanni/06Francisco/04Valdemiro"
-   ],
+   "filhos": [],
    "vivo": false,
    "campos": {
     "conjuge": "Tereza Jacomelli"
    }
-  },
-  "01Giacomo/02Giovanni/06Francisco/01Vicenti": {
-   "n": "Vicenti",
-   "g": 4,
-   "u": "01Giacomo/02Giovanni/06Francisco/01Vicenti/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/06Francisco",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/06Francisco/02Valdir": {
-   "n": "Valdir",
-   "g": 4,
-   "u": "01Giacomo/02Giovanni/06Francisco/02Valdir/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/06Francisco",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/06Francisco/03Valdelino": {
-   "n": "Valdelino",
-   "g": 4,
-   "u": "01Giacomo/02Giovanni/06Francisco/03Valdelino/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/06Francisco",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "01Giacomo/02Giovanni/06Francisco/04Valdemiro": {
-   "n": "Valdemiro",
-   "g": 4,
-   "u": "01Giacomo/02Giovanni/06Francisco/04Valdemiro/index.html",
-   "ano": null,
-   "pai": "01Giacomo/02Giovanni/06Francisco",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
   },
   "01Giacomo/03Domenico": {
    "n": "Domenico",
@@ -1434,56 +931,11 @@
    "u": "01Giacomo/03Domenico/index.html",
    "ano": 1865,
    "pai": "01Giacomo",
-   "filhos": [
-    "01Giacomo/03Domenico/01Alexandre",
-    "01Giacomo/03Domenico/02Joao",
-    "01Giacomo/03Domenico/03Adolfo",
-    "01Giacomo/03Domenico/04Antonio"
-   ],
+   "filhos": [],
    "vivo": false,
    "campos": {
     "nascimento": "~ 1865"
    }
-  },
-  "01Giacomo/03Domenico/01Alexandre": {
-   "n": "Alexandre",
-   "g": 3,
-   "u": "01Giacomo/03Domenico/01Alexandre/index.html",
-   "ano": null,
-   "pai": "01Giacomo/03Domenico",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "01Giacomo/03Domenico/02Joao": {
-   "n": "Joao",
-   "g": 3,
-   "u": "01Giacomo/03Domenico/02Joao/index.html",
-   "ano": null,
-   "pai": "01Giacomo/03Domenico",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "01Giacomo/03Domenico/03Adolfo": {
-   "n": "Adolfo",
-   "g": 3,
-   "u": "01Giacomo/03Domenico/03Adolfo/index.html",
-   "ano": null,
-   "pai": "01Giacomo/03Domenico",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "01Giacomo/03Domenico/04Antonio": {
-   "n": "Antonio",
-   "g": 3,
-   "u": "01Giacomo/03Domenico/04Antonio/index.html",
-   "ano": null,
-   "pai": "01Giacomo/03Domenico",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
   },
   "01Giacomo/04Antonio": {
    "n": "Antonio",
@@ -1625,9 +1077,6 @@
    "ano": 1890,
    "pai": "02Ballarini/01Domenico",
    "filhos": [
-    "02Ballarini/01Domenico/01Francisco/00Amelia",
-    "02Ballarini/01Domenico/01Francisco/00Assunta",
-    "02Ballarini/01Domenico/01Francisco/00Deolinda",
     "02Ballarini/01Domenico/01Francisco/00Firmino",
     "02Ballarini/01Domenico/01Francisco/00Idalina",
     "02Ballarini/01Domenico/01Francisco/00Ilidio",
@@ -1639,36 +1088,6 @@
     "nascimento": "~1890, Itália",
     "conjuge": "Catarina Magri"
    }
-  },
-  "02Ballarini/01Domenico/01Francisco/00Amelia": {
-   "n": "Amelia",
-   "g": 3,
-   "u": "02Ballarini/01Domenico/01Francisco/00Amelia/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/00Assunta": {
-   "n": "Assunta",
-   "g": 3,
-   "u": "02Ballarini/01Domenico/01Francisco/00Assunta/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/00Deolinda": {
-   "n": "Deolinda",
-   "g": 3,
-   "u": "02Ballarini/01Domenico/01Francisco/00Deolinda/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
   },
   "02Ballarini/01Domenico/01Francisco/00Firmino": {
    "n": "Firmino",
@@ -1690,9 +1109,7 @@
     "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina",
     "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor",
     "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina",
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Francisco_Andre",
     "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo",
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Luiza_Odete",
     "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo",
     "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino",
     "02Ballarini/01Domenico/01Francisco/00Idalina/00Renato",
@@ -1710,45 +1127,11 @@
    "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/index.html",
    "ano": null,
    "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
-   "filhos": [
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Andernson",
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Luciele",
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Marcela"
-   ],
+   "filhos": [],
    "vivo": true,
    "campos": {
     "conjuge": "Valter"
    }
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Andernson": {
-   "n": "Andernson",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Andernson/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Luciele": {
-   "n": "Luciele",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Luciele/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Marcela": {
-   "n": "Marcela",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Marcela/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor": {
    "n": "Claudionor",
@@ -1757,25 +1140,12 @@
    "ano": null,
    "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
    "filhos": [
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Carina",
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda",
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Lucas",
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Rodrigo"
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda"
    ],
    "vivo": true,
    "campos": {
     "conjuge": "Santina"
    }
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Carina": {
-   "n": "Carina",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Carina/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda": {
    "n": "Fernanda",
@@ -1783,43 +1153,11 @@
    "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda/index.html",
    "ano": null,
    "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor",
-   "filhos": [
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda/00CÈlio"
-   ],
+   "filhos": [],
    "vivo": true,
    "campos": {
     "conjuge": "Claudinei"
    }
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda/00CÈlio": {
-   "n": "Célio",
-   "g": 6,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda/00CÈlio/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Lucas": {
-   "n": "Lucas",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Lucas/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Rodrigo": {
-   "n": "Rodrigo",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Rodrigo/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina": {
    "n": "Dozolina",
@@ -1827,44 +1165,11 @@
    "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/index.html",
    "ano": null,
    "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
-   "filhos": [
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/00Rafael",
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/00Suzana"
-   ],
+   "filhos": [],
    "vivo": true,
    "campos": {
     "conjuge": "João"
    }
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/00Rafael": {
-   "n": "Rafael",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/00Rafael/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/00Suzana": {
-   "n": "Suzana",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/00Suzana/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Francisco_Andre": {
-   "n": "Francisco Andre",
-   "g": 4,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Francisco_Andre/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo": {
    "n": "Jose Alfredo",
@@ -1872,55 +1177,11 @@
    "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/index.html",
    "ano": null,
    "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
-   "filhos": [
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Aline",
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Diogo",
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Fabio"
-   ],
+   "filhos": [],
    "vivo": true,
    "campos": {
     "conjuge": "Adelia"
    }
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Aline": {
-   "n": "Aline",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Aline/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Diogo": {
-   "n": "Diogo",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Diogo/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Fabio": {
-   "n": "Fabio",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Fabio/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Luiza_Odete": {
-   "n": "Luiza Odete",
-   "g": 4,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Luiza_Odete/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo": {
    "n": "Maximo",
@@ -1928,34 +1189,11 @@
    "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/index.html",
    "ano": null,
    "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
-   "filhos": [
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/00Danielle",
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/00Max"
-   ],
+   "filhos": [],
    "vivo": true,
    "campos": {
     "conjuge": "Quitéria"
    }
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/00Danielle": {
-   "n": "Danielle",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/00Danielle/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/00Max": {
-   "n": "Max",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/00Max/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino": {
    "n": "Osvino",
@@ -1963,23 +1201,11 @@
    "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino/index.html",
    "ano": null,
    "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
-   "filhos": [
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino/00Daiane"
-   ],
+   "filhos": [],
    "vivo": true,
    "campos": {
     "conjuge": "Ana"
    }
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino/00Daiane": {
-   "n": "Daiane",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino/00Daiane/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Renato": {
    "n": "Renato",
@@ -1999,34 +1225,11 @@
    "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/index.html",
    "ano": null,
    "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
-   "filhos": [
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/00Leonardo",
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/00Vaneza"
-   ],
+   "filhos": [],
    "vivo": true,
    "campos": {
     "conjuge": "Ademir"
    }
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/00Leonardo": {
-   "n": "Leonardo",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/00Leonardo/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/00Vaneza": {
-   "n": "Vaneza",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/00Vaneza/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso": {
    "n": "Tarciso",
@@ -2034,34 +1237,11 @@
    "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/index.html",
    "ano": null,
    "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
-   "filhos": [
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/00Nidia",
-    "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/00Tais"
-   ],
+   "filhos": [],
    "vivo": true,
    "campos": {
     "conjuge": "Maria"
    }
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/00Nidia": {
-   "n": "Nidia",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/00Nidia/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/00Tais": {
-   "n": "Tais",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/00Tais/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
   },
   "02Ballarini/01Domenico/01Francisco/00Ilidio": {
    "n": "Ilidio",
@@ -2092,11 +1272,7 @@
    "ano": null,
    "pai": "02Ballarini/01Domenico/01Francisco",
    "filhos": [
-    "02Ballarini/01Domenico/01Francisco/08Teodoro/01Sonia",
-    "02Ballarini/01Domenico/01Francisco/08Teodoro/02Luiz_Mario",
     "02Ballarini/01Domenico/01Francisco/08Teodoro/03Rosana",
-    "02Ballarini/01Domenico/01Francisco/08Teodoro/04Paulo",
-    "02Ballarini/01Domenico/01Francisco/08Teodoro/05Avilmar",
     "02Ballarini/01Domenico/01Francisco/08Teodoro/06Helio_Marcos"
    ],
    "vivo": false,
@@ -2104,50 +1280,10 @@
     "conjuge": "Teodósia Altoé"
    }
   },
-  "02Ballarini/01Domenico/01Francisco/08Teodoro/01Sonia": {
-   "n": "Sonia",
-   "g": 4,
-   "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/01Sonia/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/08Teodoro",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/08Teodoro/02Luiz_Mario": {
-   "n": "Luiz Mario",
-   "g": 4,
-   "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/02Luiz_Mario/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/08Teodoro",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
   "02Ballarini/01Domenico/01Francisco/08Teodoro/03Rosana": {
    "n": "Rosana",
    "g": 4,
    "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/03Rosana/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/08Teodoro",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/08Teodoro/04Paulo": {
-   "n": "Paulo",
-   "g": 4,
-   "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/04Paulo/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/08Teodoro",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
-  },
-  "02Ballarini/01Domenico/01Francisco/08Teodoro/05Avilmar": {
-   "n": "Avilmar",
-   "g": 4,
-   "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/05Avilmar/index.html",
    "ano": null,
    "pai": "02Ballarini/01Domenico/01Francisco/08Teodoro",
    "filhos": [],
@@ -2160,23 +1296,11 @@
    "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/06Helio_Marcos/index.html",
    "ano": null,
    "pai": "02Ballarini/01Domenico/01Francisco/08Teodoro",
-   "filhos": [
-    "02Ballarini/01Domenico/01Francisco/08Teodoro/06Helio_Marcos/00Filipe"
-   ],
+   "filhos": [],
    "vivo": true,
    "campos": {
     "conjuge": "Silvana"
    }
-  },
-  "02Ballarini/01Domenico/01Francisco/08Teodoro/06Helio_Marcos/00Filipe": {
-   "n": "Filipe",
-   "g": 5,
-   "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/06Helio_Marcos/00Filipe/index.html",
-   "ano": null,
-   "pai": "02Ballarini/01Domenico/01Francisco/08Teodoro/06Helio_Marcos",
-   "filhos": [],
-   "vivo": true,
-   "campos": {}
   },
   "04Magri/00Giuseppe": {
    "n": "Giuseppe",
@@ -2206,111 +1330,11 @@
    "u": "04Magri/00Giuseppe/00Carlos/index.html",
    "ano": null,
    "pai": "04Magri/00Giuseppe",
-   "filhos": [
-    "04Magri/00Giuseppe/00Carlos/00Alaides",
-    "04Magri/00Giuseppe/00Carlos/00Alcebiades",
-    "04Magri/00Giuseppe/00Carlos/00Alderina",
-    "04Magri/00Giuseppe/00Carlos/00Amilton",
-    "04Magri/00Giuseppe/00Carlos/00Elias",
-    "04Magri/00Giuseppe/00Carlos/00Emidio",
-    "04Magri/00Giuseppe/00Carlos/00Orestes",
-    "04Magri/00Giuseppe/00Carlos/00Rosa",
-    "04Magri/00Giuseppe/00Carlos/00Valdemar"
-   ],
+   "filhos": [],
    "vivo": false,
    "campos": {
     "conjuge": "Adélia Bersan"
    }
-  },
-  "04Magri/00Giuseppe/00Carlos/00Alaides": {
-   "n": "Alaides",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Carlos/00Alaides/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Carlos",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Carlos/00Alcebiades": {
-   "n": "Alcebiades",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Carlos/00Alcebiades/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Carlos",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Carlos/00Alderina": {
-   "n": "Alderina",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Carlos/00Alderina/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Carlos",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Carlos/00Amilton": {
-   "n": "Amilton",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Carlos/00Amilton/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Carlos",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Carlos/00Elias": {
-   "n": "Elias",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Carlos/00Elias/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Carlos",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Carlos/00Emidio": {
-   "n": "Emidio",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Carlos/00Emidio/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Carlos",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Carlos/00Orestes": {
-   "n": "Orestes",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Carlos/00Orestes/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Carlos",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Carlos/00Rosa": {
-   "n": "Rosa",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Carlos/00Rosa/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Carlos",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Carlos/00Valdemar": {
-   "n": "Valdemar",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Carlos/00Valdemar/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Carlos",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
   },
   "04Magri/00Giuseppe/00Catharina": {
    "n": "Catharina",
@@ -2331,79 +1355,12 @@
    "u": "04Magri/00Giuseppe/00Francisco/index.html",
    "ano": 1889,
    "pai": "04Magri/00Giuseppe",
-   "filhos": [
-    "04Magri/00Giuseppe/00Francisco/00Agilio",
-    "04Magri/00Giuseppe/00Francisco/00Anuncio",
-    "04Magri/00Giuseppe/00Francisco/00Ermildo",
-    "04Magri/00Giuseppe/00Francisco/00Jose",
-    "04Magri/00Giuseppe/00Francisco/00Ozilia",
-    "04Magri/00Giuseppe/00Francisco/00Pedro"
-   ],
+   "filhos": [],
    "vivo": false,
    "campos": {
     "nascimento": "~1889, Itália",
     "conjuge": "Hortência Laquini"
    }
-  },
-  "04Magri/00Giuseppe/00Francisco/00Agilio": {
-   "n": "Agilio",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Francisco/00Agilio/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Francisco",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Francisco/00Anuncio": {
-   "n": "Anuncio",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Francisco/00Anuncio/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Francisco",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Francisco/00Ermildo": {
-   "n": "Ermildo",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Francisco/00Ermildo/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Francisco",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Francisco/00Jose": {
-   "n": "Jose",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Francisco/00Jose/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Francisco",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Francisco/00Ozilia": {
-   "n": "Ozilia",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Francisco/00Ozilia/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Francisco",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Francisco/00Pedro": {
-   "n": "Pedro",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Francisco/00Pedro/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Francisco",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
   },
   "04Magri/00Giuseppe/00Ildegarda": {
    "n": "Ildegarda",
@@ -2411,68 +1368,12 @@
    "u": "04Magri/00Giuseppe/00Ildegarda/index.html",
    "ano": 1890,
    "pai": "04Magri/00Giuseppe",
-   "filhos": [
-    "04Magri/00Giuseppe/00Ildegarda/00Abilio",
-    "04Magri/00Giuseppe/00Ildegarda/00Egidio",
-    "04Magri/00Giuseppe/00Ildegarda/00Emidio",
-    "04Magri/00Giuseppe/00Ildegarda/00Ildegarda",
-    "04Magri/00Giuseppe/00Ildegarda/00Rosalina"
-   ],
+   "filhos": [],
    "vivo": false,
    "campos": {
     "nascimento": "~1890, Itália",
     "conjuge": "JÚLIO SIPRIANI"
    }
-  },
-  "04Magri/00Giuseppe/00Ildegarda/00Abilio": {
-   "n": "Abilio",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Ildegarda/00Abilio/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Ildegarda",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Ildegarda/00Egidio": {
-   "n": "Egidio",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Ildegarda/00Egidio/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Ildegarda",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Ildegarda/00Emidio": {
-   "n": "Emidio",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Ildegarda/00Emidio/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Ildegarda",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Ildegarda/00Ildegarda": {
-   "n": "Ildegarda",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Ildegarda/00Ildegarda/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Ildegarda",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Ildegarda/00Rosalina": {
-   "n": "Rosalina",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Ildegarda/00Rosalina/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Ildegarda",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
   },
   "04Magri/00Giuseppe/00Maria": {
    "n": "Maria",
@@ -2480,89 +1381,11 @@
    "u": "04Magri/00Giuseppe/00Maria/index.html",
    "ano": null,
    "pai": "04Magri/00Giuseppe",
-   "filhos": [
-    "04Magri/00Giuseppe/00Maria/00Afonso",
-    "04Magri/00Giuseppe/00Maria/00Alcides",
-    "04Magri/00Giuseppe/00Maria/00Alecio",
-    "04Magri/00Giuseppe/00Maria/00Antonio",
-    "04Magri/00Giuseppe/00Maria/00Artur",
-    "04Magri/00Giuseppe/00Maria/00Izolina",
-    "04Magri/00Giuseppe/00Maria/00Nila"
-   ],
+   "filhos": [],
    "vivo": false,
    "campos": {
     "conjuge": "Hermínio Bersan"
    }
-  },
-  "04Magri/00Giuseppe/00Maria/00Afonso": {
-   "n": "Afonso",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Maria/00Afonso/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Maria",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Maria/00Alcides": {
-   "n": "Alcides",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Maria/00Alcides/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Maria",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Maria/00Alecio": {
-   "n": "Alecio",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Maria/00Alecio/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Maria",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Maria/00Antonio": {
-   "n": "Antonio",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Maria/00Antonio/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Maria",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Maria/00Artur": {
-   "n": "Artur",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Maria/00Artur/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Maria",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Maria/00Izolina": {
-   "n": "Izolina",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Maria/00Izolina/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Maria",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Maria/00Nila": {
-   "n": "Nila",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Maria/00Nila/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Maria",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
   },
   "04Magri/00Giuseppe/00Pascoal": {
    "n": "Pascoal",
@@ -2570,100 +1393,11 @@
    "u": "04Magri/00Giuseppe/00Pascoal/index.html",
    "ano": null,
    "pai": "04Magri/00Giuseppe",
-   "filhos": [
-    "04Magri/00Giuseppe/00Pascoal/00Alfina",
-    "04Magri/00Giuseppe/00Pascoal/00Alice",
-    "04Magri/00Giuseppe/00Pascoal/00Elza",
-    "04Magri/00Giuseppe/00Pascoal/00Joao",
-    "04Magri/00Giuseppe/00Pascoal/00Jose",
-    "04Magri/00Giuseppe/00Pascoal/00Maria",
-    "04Magri/00Giuseppe/00Pascoal/00Tereza",
-    "04Magri/00Giuseppe/00Pascoal/00Valter"
-   ],
+   "filhos": [],
    "vivo": false,
    "campos": {
     "conjuge": "Marcela Laquini"
    }
-  },
-  "04Magri/00Giuseppe/00Pascoal/00Alfina": {
-   "n": "Alfina",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Pascoal/00Alfina/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Pascoal",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Pascoal/00Alice": {
-   "n": "Alice",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Pascoal/00Alice/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Pascoal",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Pascoal/00Elza": {
-   "n": "Elza",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Pascoal/00Elza/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Pascoal",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Pascoal/00Joao": {
-   "n": "Joao",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Pascoal/00Joao/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Pascoal",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Pascoal/00Jose": {
-   "n": "Jose",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Pascoal/00Jose/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Pascoal",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Pascoal/00Maria": {
-   "n": "Maria",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Pascoal/00Maria/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Pascoal",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Pascoal/00Tereza": {
-   "n": "Tereza",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Pascoal/00Tereza/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Pascoal",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Pascoal/00Valter": {
-   "n": "Valter",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Pascoal/00Valter/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Pascoal",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
   },
   "04Magri/00Giuseppe/00Rosa": {
    "n": "Rosa",
@@ -2671,68 +1405,12 @@
    "u": "04Magri/00Giuseppe/00Rosa/index.html",
    "ano": 1887,
    "pai": "04Magri/00Giuseppe",
-   "filhos": [
-    "04Magri/00Giuseppe/00Rosa/00Amelio",
-    "04Magri/00Giuseppe/00Rosa/00Americo",
-    "04Magri/00Giuseppe/00Rosa/00Dumitila",
-    "04Magri/00Giuseppe/00Rosa/00Fioro",
-    "04Magri/00Giuseppe/00Rosa/00Vergilio"
-   ],
+   "filhos": [],
    "vivo": false,
    "campos": {
     "nascimento": "~1887, Itália",
     "conjuge": "Luiz Fabris"
    }
-  },
-  "04Magri/00Giuseppe/00Rosa/00Amelio": {
-   "n": "Amelio",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Rosa/00Amelio/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Rosa",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Rosa/00Americo": {
-   "n": "Americo",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Rosa/00Americo/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Rosa",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Rosa/00Dumitila": {
-   "n": "Dumitila",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Rosa/00Dumitila/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Rosa",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Rosa/00Fioro": {
-   "n": "Fioro",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Rosa/00Fioro/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Rosa",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Rosa/00Vergilio": {
-   "n": "Vergilio",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Rosa/00Vergilio/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Rosa",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
   },
   "04Magri/00Giuseppe/00Zulmira": {
    "n": "Zulmira",
@@ -2740,122 +1418,11 @@
    "u": "04Magri/00Giuseppe/00Zulmira/index.html",
    "ano": null,
    "pai": "04Magri/00Giuseppe",
-   "filhos": [
-    "04Magri/00Giuseppe/00Zulmira/00Almelinda",
-    "04Magri/00Giuseppe/00Zulmira/00Angelica",
-    "04Magri/00Giuseppe/00Zulmira/00Antonio",
-    "04Magri/00Giuseppe/00Zulmira/00Cecilia",
-    "04Magri/00Giuseppe/00Zulmira/00Joao",
-    "04Magri/00Giuseppe/00Zulmira/00Joaquim",
-    "04Magri/00Giuseppe/00Zulmira/00Leonora_Rita",
-    "04Magri/00Giuseppe/00Zulmira/00Olinda",
-    "04Magri/00Giuseppe/00Zulmira/00Primo",
-    "04Magri/00Giuseppe/00Zulmira/00Rosalina"
-   ],
+   "filhos": [],
    "vivo": false,
    "campos": {
     "conjuge": "Constante Calegari"
    }
-  },
-  "04Magri/00Giuseppe/00Zulmira/00Almelinda": {
-   "n": "Almelinda",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Zulmira/00Almelinda/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Zulmira",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Zulmira/00Angelica": {
-   "n": "Angelica",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Zulmira/00Angelica/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Zulmira",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Zulmira/00Antonio": {
-   "n": "Antonio",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Zulmira/00Antonio/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Zulmira",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Zulmira/00Cecilia": {
-   "n": "Cecilia",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Zulmira/00Cecilia/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Zulmira",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Zulmira/00Joao": {
-   "n": "Joao",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Zulmira/00Joao/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Zulmira",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Zulmira/00Joaquim": {
-   "n": "Joaquim",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Zulmira/00Joaquim/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Zulmira",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Zulmira/00Leonora_Rita": {
-   "n": "Leonora Rita",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Zulmira/00Leonora_Rita/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Zulmira",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Zulmira/00Olinda": {
-   "n": "Olinda",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Zulmira/00Olinda/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Zulmira",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Zulmira/00Primo": {
-   "n": "Primo",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Zulmira/00Primo/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Zulmira",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
-  },
-  "04Magri/00Giuseppe/00Zulmira/00Rosalina": {
-   "n": "Rosalina",
-   "g": 3,
-   "u": "04Magri/00Giuseppe/00Zulmira/00Rosalina/index.html",
-   "ano": null,
-   "pai": "04Magri/00Giuseppe/00Zulmira",
-   "filhos": [],
-   "vivo": false,
-   "campos": {}
   }
  }
 }
