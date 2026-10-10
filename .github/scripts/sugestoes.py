@@ -31,7 +31,8 @@ CAMPOS = {
     "nascimento_local": "Local de nascimento",
     "falecimento_data": "Data de falecimento",
     "falecimento_local": "Local de falecimento",
-    "conjuge": "Cônjuge",
+    "outro_genitor": "Outro pai/mãe",
+    "unioes": "Cônjuge(s) / uniões",
     "casamento_data": "Data do casamento",
     "casamento_local": "Local do casamento",
     "residencia": "Onde morou",
@@ -202,6 +203,8 @@ def interpretar_issue(issue: dict) -> Sugestao | None:
         v = campo(titulo)
         if v:
             sug.campos[chave] = v
+    if campo("Cônjuge") and "unioes" not in sug.campos:  # formulário antigo
+        sug.campos["unioes"] = campo("Cônjuge")
     for titulo, base in LEGADO.items():  # issues abertas com o formulário antigo (data e local juntos)
         v = campo(titulo)
         if v:
@@ -322,7 +325,7 @@ def validar(sug: Sugestao, dados: dict, conta_dias: int | None = None) -> tuple[
     for regex, nome in SENSIVEIS:
         if regex.search(texto):
             probs.append(("sensivel", f"A sugestão parece conter {nome}. Esta página é pública: edite a issue e remova."))
-    if vivo and _RE_DATA.search(" ".join(sug.campos.get(k, "") for k in ("nascimento_data", "casamento_data"))):
+    if vivo and _RE_DATA.search(" ".join(sug.campos.get(k, "") for k in ("nascimento_data", "casamento_data", "unioes"))):
         probs.append(("sensivel", "Data completa de uma pessoa que pode estar viva. O site público mostra só o ano; prefira informar só o ano."))
 
     # Vandalismo / spam

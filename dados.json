@@ -17,7 +17,7 @@
    "vivo": false,
    "campos": {
     "nascimento_data": "~ 1830",
-    "conjuge": "Luigia Maria Braggio (Nascida ~1834 na província de Rovigo)"
+    "unioes": "Luigia Maria Braggio (Nascida ~1834 na província de Rovigo)"
    }
   },
   "01Giacomo/01Vincenzo": {
@@ -33,7 +33,7 @@
    "vivo": false,
    "campos": {
     "nascimento_data": "~1855",
-    "conjuge": "Maria Franchin (27 anos)"
+    "unioes": "Maria Franchin (27 anos)"
    }
   },
   "01Giacomo/01Vincenzo/01Regina": {
@@ -72,7 +72,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Gacintha Grassetto (25 anos)"
+    "unioes": "Gacintha Grassetto (25 anos)"
    }
   },
   "01Giacomo/02Giovanni/01Jose": {
@@ -96,7 +96,7 @@
    "campos": {
     "nascimento_data": "~ 1886",
     "nascimento_local": "Itália",
-    "conjuge": "Dosolina Dalfiôr (~ 1888) natural da Itália, filha de Ferdinando Daifior e Maria Pauli",
+    "unioes": "Dosolina Dalfiôr (~ 1888) natural da Itália, filha de Ferdinando Daifior e Maria Pauli",
     "casamento_data": "24/05/1913",
     "casamento_local": "distrito de São José, comarca de Cachoeiro do Itapemirim. Ela com 24 anos e ele com 27 anos."
    }
@@ -131,7 +131,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Sebastião Partelli",
+    "unioes": "Sebastião Partelli",
     "residencia": "norte do ES"
    }
   },
@@ -222,7 +222,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Osilia Balarini",
+    "unioes": "Osilia Balarini",
     "residencia": "Cachoeiro de Itapemirim"
    }
   },
@@ -317,7 +317,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Arminda Curitiba",
+    "unioes": "Arminda Curitiba",
     "residencia": "Cachoeiro de Itapemirim"
    }
   },
@@ -457,7 +457,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Rafael Monteiro (20-04-1927)",
+    "unioes": "Rafael Monteiro (20-04-1927)",
     "residencia": "Vitória - ES"
    }
   },
@@ -471,7 +471,7 @@
    "vivo": true,
    "campos": {
     "nascimento_data": "1956",
-    "conjuge": "Adil"
+    "unioes": "Adil"
    }
   },
   "01Giacomo/02Giovanni/01Jose/06Josefina/02Mario": {
@@ -557,7 +557,7 @@
    "campos": {
     "nascimento_data": "11-02-1925",
     "nascimento_local": "distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
-    "conjuge": "Rosalina Balarini (28-01-1931)",
+    "unioes": "Rosalina Balarini (28-01-1931)",
     "casamento_data": "01-06-1950",
     "casamento_local": "Jaciguá",
     "residencia": "Cachoeiro de Itapemirim - ES"
@@ -577,7 +577,7 @@
    "campos": {
     "nascimento_data": "1951",
     "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
-    "conjuge": "Wilton Gomes Costa Sobrinho",
+    "unioes": "Wilton Gomes Costa Sobrinho",
     "casamento_data": "1983",
     "casamento_local": "Matriz Velha - Cach."
    }
@@ -637,7 +637,7 @@
    "campos": {
     "nascimento_data": "1955",
     "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
-    "conjuge": "Marlene Buzon"
+    "unioes": "Marlene Buzon"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose/01Mixely": {
@@ -686,7 +686,7 @@
    "campos": {
     "nascimento_data": "1955",
     "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
-    "conjuge": "Marta Tomazini"
+    "unioes": "Marta Tomazini"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/04Pedro/01Fabiana": {
@@ -741,7 +741,7 @@
    "campos": {
     "nascimento_data": "1958",
     "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
-    "conjuge": "Helena Pereira"
+    "unioes": "Helena Pereira"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/06Braz/01Brunelly_Pereira": {
@@ -782,7 +782,7 @@
    "campos": {
     "nascimento_data": "1960",
     "nascimento_local": "Santana distrito de Jaciguá, município de Cachoeiro de Itapemirim - ES",
-    "conjuge": "Maria do Carmo Batista Zampirolli (Carminha)",
+    "unioes": "Maria do Carmo Batista Zampirolli (Carminha)",
     "casamento_data": "1984",
     "casamento_local": "Belo Horizonte no Civil. No Religioso 1984, na Capela do Colégio das Irmãs do Bom Pastor"
    }
@@ -827,7 +827,7 @@
    "campos": {
     "nascimento_data": "1962",
     "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
-    "conjuge": "Lúcia neves gomes",
+    "unioes": "Lúcia neves gomes",
     "casamento_data": "1985"
    }
   },
@@ -872,7 +872,7 @@
    "campos": {
     "nascimento_data": "1964",
     "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
-    "conjuge": "Alzira Rocha Dias"
+    "unioes": "Alzira Rocha Dias"
    }
   },
   "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/01Josiane_Dias_Neves": {
@@ -942,7 +942,7 @@
    "campos": {
     "nascimento_data": "1965",
     "nascimento_local": "lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
-    "conjuge": "Carlos Alberto Diniz Aguiar",
+    "unioes": "Carlos Alberto Diniz Aguiar",
     "casamento_data": "1987",
     "casamento_local": "17 local Cachoeiro - Igreja Nossa Senhora dos Passos (Matriz Velha)"
    }
@@ -1000,7 +1000,7 @@
    "campos": {
     "nascimento_data": "1968",
     "nascimento_local": "domicilio, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
-    "conjuge": "Cristina Baptista Moura",
+    "unioes": "Cristina Baptista Moura",
     "casamento_data": "1998",
     "casamento_local": "Igrejinha de São Francisco Chavier, Niterói - RJ"
    }
@@ -1045,7 +1045,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Aristides Basso",
+    "unioes": "Aristides Basso",
     "residencia": "norte do ES"
    }
   },
@@ -1115,7 +1115,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Lucia D'angeles",
+    "unioes": "Lucia D'angeles",
     "residencia": "Cachoeiro de Itapemirim - ES"
    }
   },
@@ -1131,7 +1131,7 @@
    ],
    "vivo": true,
    "campos": {
-    "conjuge": "Vanderley de Jesus"
+    "unioes": "Vanderley de Jesus"
    }
   },
   "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene/01Andre_Zampirolli_De_Jesus": {
@@ -1176,7 +1176,7 @@
    ],
    "vivo": true,
    "campos": {
-    "conjuge": "Evaldo Azevedo"
+    "unioes": "Evaldo Azevedo"
    }
   },
   "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/01Fernando_Zampirolli_Azevedo": {
@@ -1211,7 +1211,7 @@
    ],
    "vivo": true,
    "campos": {
-    "conjuge": "Adelsom Moreira"
+    "unioes": "Adelsom Moreira"
    }
   },
   "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/01Bernardo_Zampirolli_Moreira": {
@@ -1278,7 +1278,7 @@
    ],
    "vivo": true,
    "campos": {
-    "conjuge": "Juliana"
+    "unioes": "Juliana"
    }
   },
   "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder/01Yuri": {
@@ -1300,7 +1300,7 @@
    "filhos": [],
    "vivo": false,
    "campos": {
-    "conjuge": "João Cipriano"
+    "unioes": "João Cipriano"
    }
   },
   "01Giacomo/02Giovanni/03Angelo": {
@@ -1318,7 +1318,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Carolina Jacomelli"
+    "unioes": "Carolina Jacomelli"
    }
   },
   "01Giacomo/02Giovanni/03Angelo/01Aurelio": {
@@ -1384,7 +1384,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Maria Zanette"
+    "unioes": "Maria Zanette"
    }
   },
   "01Giacomo/02Giovanni/04Cesar/01Joao": {
@@ -1426,7 +1426,7 @@
    "filhos": [],
    "vivo": false,
    "campos": {
-    "conjuge": "Bortolo Partelli"
+    "unioes": "Bortolo Partelli"
    }
   },
   "01Giacomo/02Giovanni/06Francisco": {
@@ -1443,7 +1443,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Tereza Jacomelli"
+    "unioes": "Tereza Jacomelli"
    }
   },
   "01Giacomo/02Giovanni/06Francisco/01Vicenti": {
@@ -1574,7 +1574,7 @@
    "campos": {
     "nascimento_data": "20/07/1878",
     "nascimento_local": "Itália",
-    "conjuge": "Giuseppe Valentim De Angeli",
+    "unioes": "Giuseppe Valentim De Angeli",
     "residencia": "Jaciguá"
    }
   },
@@ -1674,7 +1674,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Catharina"
+    "unioes": "Catharina"
    }
   },
   "02Ballarini/01Domenico/01Francisco": {
@@ -1697,7 +1697,7 @@
    "campos": {
     "nascimento_data": "~1890",
     "nascimento_local": "Itália",
-    "conjuge": "Catarina Magri"
+    "unioes": "Catarina Magri"
    }
   },
   "02Ballarini/01Domenico/01Francisco/00Amelia": {
@@ -1761,7 +1761,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "André"
+    "unioes": "André"
    }
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina": {
@@ -1777,7 +1777,7 @@
    ],
    "vivo": true,
    "campos": {
-    "conjuge": "Valter"
+    "unioes": "Valter"
    }
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Andernson": {
@@ -1824,7 +1824,7 @@
    ],
    "vivo": true,
    "campos": {
-    "conjuge": "Santina"
+    "unioes": "Santina"
    }
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Carina": {
@@ -1848,7 +1848,7 @@
    ],
    "vivo": true,
    "campos": {
-    "conjuge": "Claudinei"
+    "unioes": "Claudinei"
    }
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda/00CÈlio": {
@@ -1893,7 +1893,7 @@
    ],
    "vivo": true,
    "campos": {
-    "conjuge": "João"
+    "unioes": "João"
    }
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/00Rafael": {
@@ -1939,7 +1939,7 @@
    ],
    "vivo": true,
    "campos": {
-    "conjuge": "Adelia"
+    "unioes": "Adelia"
    }
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Aline": {
@@ -1994,7 +1994,7 @@
    ],
    "vivo": true,
    "campos": {
-    "conjuge": "Quitéria"
+    "unioes": "Quitéria"
    }
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/00Danielle": {
@@ -2028,7 +2028,7 @@
    ],
    "vivo": true,
    "campos": {
-    "conjuge": "Ana"
+    "unioes": "Ana"
    }
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino/00Daiane": {
@@ -2050,7 +2050,7 @@
    "filhos": [],
    "vivo": true,
    "campos": {
-    "conjuge": "Néia"
+    "unioes": "Néia"
    }
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita": {
@@ -2065,7 +2065,7 @@
    ],
    "vivo": true,
    "campos": {
-    "conjuge": "Ademir"
+    "unioes": "Ademir"
    }
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/00Leonardo": {
@@ -2100,7 +2100,7 @@
    ],
    "vivo": true,
    "campos": {
-    "conjuge": "Maria"
+    "unioes": "Maria"
    }
   },
   "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/00Nidia": {
@@ -2142,7 +2142,7 @@
    "filhos": [],
    "vivo": false,
    "campos": {
-    "conjuge": "Domingos Zampirolli"
+    "unioes": "Domingos Zampirolli"
    }
   },
   "02Ballarini/01Domenico/01Francisco/08Teodoro": {
@@ -2161,7 +2161,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Teodósia Altoé"
+    "unioes": "Teodósia Altoé"
    }
   },
   "02Ballarini/01Domenico/01Francisco/08Teodoro/01Sonia": {
@@ -2225,7 +2225,7 @@
    ],
    "vivo": true,
    "campos": {
-    "conjuge": "Silvana"
+    "unioes": "Silvana"
    }
   },
   "02Ballarini/01Domenico/01Francisco/08Teodoro/06Helio_Marcos/00Filipe": {
@@ -2258,7 +2258,7 @@
    "campos": {
     "nascimento_data": "~1861",
     "nascimento_local": "Mirândola, Província de Módena, Itália",
-    "conjuge": "Mansueta Polastri (~1860)"
+    "unioes": "Mansueta Polastri (~1860)"
    }
   },
   "04Magri/00Giuseppe/00Carlos": {
@@ -2280,7 +2280,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Adélia Bersan"
+    "unioes": "Adélia Bersan"
    }
   },
   "04Magri/00Giuseppe/00Carlos/00Alaides": {
@@ -2384,7 +2384,7 @@
    "campos": {
     "nascimento_data": "~1890",
     "nascimento_local": "Itália",
-    "conjuge": "Francisco"
+    "unioes": "Francisco"
    }
   },
   "04Magri/00Giuseppe/00Francisco": {
@@ -2405,7 +2405,7 @@
    "campos": {
     "nascimento_data": "~1889",
     "nascimento_local": "Itália",
-    "conjuge": "Hortência Laquini"
+    "unioes": "Hortência Laquini"
    }
   },
   "04Magri/00Giuseppe/00Francisco/00Agilio": {
@@ -2485,7 +2485,7 @@
    "campos": {
     "nascimento_data": "~1890",
     "nascimento_local": "Itália",
-    "conjuge": "JÚLIO SIPRIANI"
+    "unioes": "JÚLIO SIPRIANI"
    }
   },
   "04Magri/00Giuseppe/00Ildegarda/00Abilio": {
@@ -2555,7 +2555,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Hermínio Bersan"
+    "unioes": "Hermínio Bersan"
    }
   },
   "04Magri/00Giuseppe/00Maria/00Afonso": {
@@ -2646,7 +2646,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Marcela Laquini"
+    "unioes": "Marcela Laquini"
    }
   },
   "04Magri/00Giuseppe/00Pascoal/00Alfina": {
@@ -2746,7 +2746,7 @@
    "campos": {
     "nascimento_data": "~1887",
     "nascimento_local": "Itália",
-    "conjuge": "Luiz Fabris"
+    "unioes": "Luiz Fabris"
    }
   },
   "04Magri/00Giuseppe/00Rosa/00Amelio": {
@@ -2819,7 +2819,7 @@
    ],
    "vivo": false,
    "campos": {
-    "conjuge": "Constante Calegari"
+    "unioes": "Constante Calegari"
    }
   },
   "04Magri/00Giuseppe/00Zulmira/00Almelinda": {

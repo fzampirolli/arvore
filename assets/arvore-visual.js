@@ -202,7 +202,8 @@
       <dl>
         ${no.ano ? `<dt>Nascimento</dt><dd>${esc(no.ano)}</dd>` : ""}
         ${no.f ? `<dt>Falecimento</dt><dd>in memoriam</dd>` : ""}
-        ${no.c ? `<dt>Cônjuge</dt><dd>${conj}</dd>` : ""}
+        ${no.c ? `<dt>${no.c.includes(",") ? "Uniões" : "Cônjuge"}</dt><dd>${conj}</dd>` : ""}
+        ${no.pai && no.o ? `<dt>Pais</dt><dd>${esc(no.pai.n)} e ${esc(no.o)}</dd>` : ""}
         <dt>Filhos</dt><dd>${filhos || "nenhum cadastrado"}</dd>
         ${no.desc > filhos ? `<dt>Descendentes</dt><dd>${no.desc}</dd>` : ""}
       </dl>

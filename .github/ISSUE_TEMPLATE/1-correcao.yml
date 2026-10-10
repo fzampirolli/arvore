@@ -53,11 +53,18 @@ body:
       description: "Cidade ou distrito e estado (ou país)."
     validations:
       required: false
-  - type: input
-    id: conjuge
+  - type: textarea
+    id: unioes
     attributes:
-      label: "Cônjuge"
-      description: "Nome do marido ou da esposa."
+      label: "Cônjuge(s) / uniões"
+      description: "Uma pessoa por linha, na ordem. Entre parênteses, se quiser: início, fim, separação. Ex.:\nMaria Silva (1975–1990, separados)\nAna Souza (desde 2001)\nPara pessoas vivas o site mostra só os nomes; datas e separações ficam guardadas no arquivo privado."
+    validations:
+      required: false
+  - type: input
+    id: outro_genitor
+    attributes:
+      label: "Outro pai/mãe"
+      description: "Só para filhos: o pai ou a mãe que não é desta família. Deixe em branco se o pai/mãe da árvore teve uma única união."
     validations:
       required: false
   - type: input
