@@ -2922,5 +2922,14 @@
    "vivo": false,
    "campos": {}
   }
+ },
+ "aprovacao_automatica": {
+  "confiaveis": [
+   "fzampirolli"
+  ],
+  "tipos": [
+   "correcao",
+   "nova_pessoa"
+  ]
  }
 }

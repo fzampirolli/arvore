@@ -127,6 +127,7 @@ ROTULOS = {
     "aplicado": ("90A4AE", "Já está no site"),
     "rejeitado": ("BDBDBD", "Não será aplicado"),
     "erro ao aplicar": ("E57373", "A automação não conseguiu aplicar; veja o comentário"),
+    "automático": ("80DEEA", "Aprovado automaticamente: pessoa de confiança e nenhum problema encontrado"),
     "forçar": ("6D4C41", "Junto com 'aprovado': aplica mesmo com erros apontados pelo robô"),
 }
 
@@ -350,6 +351,24 @@ def so_alterados(sug: Sugestao, dados: dict) -> Sugestao:
     return sug
 
 
+def aprovar_automaticamente(sug: Sugestao, rotulos: set[str], dados: dict) -> tuple[bool, str]:
+    """Meio-termo entre revisar tudo e aprovar tudo. Só passa sozinho se TODAS as condições valerem."""
+    regra = dados.get("aprovacao_automatica") or {}
+    confiaveis = {u.lower() for u in regra.get("confiaveis", [])}
+    tipos = set(regra.get("tipos", ["correcao", "nova_pessoa"]))
+    if not confiaveis:
+        return False, "aprovação automática desligada"
+    if sug.autor_login.lower() not in confiaveis:
+        return False, "quem enviou não está na lista de confiança"
+    if sug.tipo not in tipos:
+        return False, "fotos e documentos sempre esperam revisão"
+    if rotulos != {"validado"}:
+        return False, "o robô encontrou pontos a conferir"
+    if any(v.strip().upper() == APAGAR for v in sug.campos.values()):
+        return False, "pedidos para APAGAR sempre esperam revisão"
+    return True, "pessoa de confiança, sem problemas encontrados"
+
+
 def comentario(sug: Sugestao, dados: dict, probs, rotulos) -> str:
     pessoas = dados.get("pessoas", {})
     alvo = pessoas.get(sug.alvo, {})
@@ -437,6 +456,12 @@ def cmd_validar(args):
     if args.simular:
         print(texto, "\nRótulos:", rotulos)
         return 0
+    auto, motivo = aprovar_automaticamente(sug, rotulos, dados)
+    ja_tratada = issue.get("state") == "closed" or {(l["name"] if isinstance(l, dict) else l) for l in issue.get("labels", [])} & {"aprovado", "aplicado", "rejeitado"}
+    if auto and not ja_tratada:
+        texto += ("\n\n🤖 **Aprovada automaticamente** (" + motivo + "). Será aplicada em instantes; "
+                  "o mantenedor pode desfazer pelo histórico do repositório de dados.")
+        rotulos |= {"aprovado", "automático"}
     garantir_rotulos(repo)
     comentar_unico(repo, issue["number"], texto)
     # troca validado/atenção conforme o resultado atual
@@ -446,6 +471,15 @@ def cmd_validar(args):
         except urllib.error.HTTPError:
             pass
     api("POST", f"/repos/{repo}/issues/{issue['number']}/labels", {"labels": sorted(rotulos)})
+    if auto and not ja_tratada:
+        # Rótulos colocados por robôs não disparam outras automações no GitHub:
+        # por isso o aviso ao repositório de dados é feito aqui, diretamente.
+        repo_dados, token = os.environ.get("REPO_DADOS"), os.environ.get("TOKEN_ARVORE")
+        if repo_dados and token:
+            api("POST", f"/repos/{repo_dados}/dispatches",
+                {"event_type": "sugestao-aprovada", "client_payload": {"issue": issue["number"], "automatica": True}}, token)
+        else:
+            print("Aviso: falta REPO_DADOS ou TOKEN_ARVORE; a aprovação automática não foi enviada.")
     print(texto)
     return 0
 

@@ -17,9 +17,11 @@ jobs:
             .github/scripts
             dados.json
           sparse-checkout-cone-mode: false
-      - name: Conferir a sugestão
+      - name: Conferir a sugestão (e aprovar sozinho se for de pessoa de confiança, sem problemas)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN_ARVORE: ${{ secrets.TOKEN_ARVORE }}
+          REPO_DADOS: fzampirolli/arvore-dados
         run: python3 .github/scripts/sugestoes.py validar --evento "$GITHUB_EVENT_PATH" --dados dados.json
   aplicar:
     # O mantenedor colocou o rótulo "aprovado": avisa o repositório de dados para aplicar e republicar
