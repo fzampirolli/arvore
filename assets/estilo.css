@@ -241,3 +241,5 @@ details.contexto summary { cursor: pointer; font-weight: 600; }
 .historia-projeto { margin-top: 2.5rem; }
 .historia-projeto > summary { cursor: pointer; color: var(--suave); }
 .historia-projeto h2:empty { display: none; }
+.aviso-contato { background: #fff3d6; border: 1px solid #e3c27a; border-radius: var(--raio); padding: .2rem 1.2rem .6rem; margin-top: 2rem; }
+.aviso-contato h2 { border-bottom: 0; }
