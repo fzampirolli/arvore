@@ -213,7 +213,8 @@
         ${no.desc ? `<button type="button" data-acao="tudo">Mostrar todos os descendentes</button>` : ""}
         ${no.s ? `<a class="botao-sugerir" href="${esc(no.s)}" target="_blank" rel="noopener">✏️ Sugerir correção</a>` : ""}
         ${no.sf ? `<a class="botao-sugerir" href="${esc(no.sf)}" target="_blank" rel="noopener">➕ Acrescentar filho(a)</a>` : ""}
-      </div>`;
+      </div>
+      ${no.s ? `<p class="mini aviso-conta-mini">🔑 Os botões de sugestão pedem uma conta gratuita no GitHub. <a href="${RAIZ}sobre.html#contribuir">Sem conta? Mande por e-mail.</a></p>` : ""}`;
     painel.hidden = false;
   }
 
