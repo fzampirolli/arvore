@@ -5,7 +5,7 @@ labels: ["sugestão", "correção"]
 body:
   - type: markdown
     attributes:
-      value: "Obrigado por ajudar a árvore! 🌳 Os campos já vêm com o que está no site: **altere só o que estiver errado ou faltando**. Para apagar uma informação errada, escreva `APAGAR` no campo.\n\n⚠️ **Esta sugestão fica pública na internet.** Não escreva telefone, endereço, e-mail, CPF/RG nem datas completas de pessoas vivas (para elas, informe só o ano). Nada é publicado no site antes de ser revisado por quem mantém a árvore."
+      value: "Obrigado por ajudar a árvore! 🌳 Os campos já vêm com o que está no site: **altere só o que estiver errado ou faltando**. Para apagar uma informação errada, escreva `APAGAR` no campo.\n\n⏳ **A mudança não aparece na hora.** Toda sugestão é conferida por um robô e aprovada por quem mantém a árvore antes de entrar no site, o que pode levar alguns dias. Fotos e documentos são sempre revisados pessoalmente. Você recebe um aviso aqui quando sua sugestão for aplicada.\n\n⚠️ **Esta sugestão fica pública na internet.** Não escreva telefone, endereço, e-mail, CPF/RG nem datas completas de pessoas vivas (para elas, informe só o ano). Nada é publicado no site antes de ser revisado por quem mantém a árvore."
   - type: input
     id: pessoa
     attributes:

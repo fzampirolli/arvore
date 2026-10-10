@@ -245,3 +245,4 @@ details.contexto summary { cursor: pointer; font-weight: 600; }
 .aviso-contato h2 { border-bottom: 0; }
 .unioes { margin: 0; padding-left: 1.1rem; }
 .grupo-filhos { font: 600 .95rem var(--sans); color: var(--suave); margin: .9rem 0 .4rem; }
+.aviso-demora { margin-top: .2rem; font-size: .88rem; }

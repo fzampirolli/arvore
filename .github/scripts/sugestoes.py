@@ -398,7 +398,8 @@ def comentario(sug: Sugestao, dados: dict, probs, rotulos) -> str:
     else:
         L.append("✅ Nenhum problema encontrado.")
     L += ["", "---",
-          "_Quem mantém o site revisa todas as sugestões. Se algo estiver errado, **edite a issue** (menu ··· › Edit) "
+          "_Obrigado! Quem mantém o site revisa todas as sugestões antes de publicá-las, o que pode levar alguns dias; "
+          "você receberá um aviso aqui quando for aplicada. Se algo estiver errado, **edite a issue** (menu ··· › Edit) "
           "que esta conferência é refeita. Para aprovar, o mantenedor adiciona o rótulo `aprovado`._"]
     return "\n".join(L)
 
