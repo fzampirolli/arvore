@@ -234,3 +234,10 @@ details.contexto summary { cursor: pointer; font-weight: 600; }
 .acoes .botao-sugerir { text-align: center; border-radius: 12px; }
 .fontes-pessoa { font-size: .93rem; }
 .fontes-pessoa li { margin: .2rem 0; }
+
+/* Página Sobre */
+.passos-sobre { flex-direction: column; max-width: 760px; }
+.passos-sobre li { flex: none; font-size: 1rem; }
+.historia-projeto { margin-top: 2.5rem; }
+.historia-projeto > summary { cursor: pointer; color: var(--suave); }
+.historia-projeto h2:empty { display: none; }

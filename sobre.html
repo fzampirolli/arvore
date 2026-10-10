@@ -18,51 +18,39 @@
   </div>
 </header>
 <main>
-<h1>Sobre este site</h1>
+<h1>Sobre</h1>
+<p class="lead">A árvore das famílias Zampirolli, Ballarini, Dalfior e Magri, da Itália ao Espírito Santo.
+Ela é feita por todos nós.</p>
+
 <section id="contribuir"><h2>Como contribuir</h2>
-<p>As páginas são geradas automaticamente a partir de uma estrutura de pastas — cada pasta é uma pessoa:</p>
-<pre class="exemplo">04Magri/                      ← um sobrenome (família)
-└── 00Giuseppe/               ← uma pessoa
-    ├── DADOS.TXT             ← dados pessoais
-    ├── HISTORIA.TXT          ← (opcional) história, em texto livre
-    ├── fig/                  ← (opcional) fotos; subpastas viram álbuns
-    │   └── Casamento_de_Rosa_1910.jpg
-    ├── certidao_de_casamento.pdf   ← (opcional) documentos
-    └── 01Carlos/             ← um filho: 2 dígitos (ordem de nascimento) + nome
-</pre>
-<ol>
-<li>Para cada filho, crie uma subpasta com <strong>dois dígitos</strong> de ordem de nascimento e o nome, trocando espaços por <code>_</code> (ex.: <code>11Francisco_de_Assis</code>). Use <code>00</code> se a ordem for desconhecida.</li>
-<li>Crie o arquivo <code>DADOS.TXT</code>, uma informação por linha:
-<pre class="exemplo">Nascimento: 06-12-1968, Jaciguá, Cachoeiro de Itapemirim - ES
-Esposa: Nome Completo (nascida em 15-01-1970, Rio de Janeiro)
-Casamento: 19-12-1998, Niterói - RJ
-Falecimento: 02-03-2001, Vitória - ES
-Nome do navio: Adria
-Data de chegada: 31/12/1888
-Ultima residência: Pettorazza Grimani</pre>
-Também são aceitos <code>Esposo</code>, <code>Marido</code>, <code>Telefone</code>, <code>Endereço</code> — telefone e endereço <em>nunca</em> são publicados na versão pública.</li>
-<li>Coloque as fotos na subpasta <code>fig</code>, com nomes descritivos (<code>Bodas_de_Ouro_2000.jpg</code>). O nome vira a legenda.</li>
-<li>Rode <code>python3 gerador/gerar.py</code> na pasta principal. O site fica em <code>site/</code>.</li>
+<ol class="passos passos-sobre">
+  <li><span>1</span><div>Abra a página da pessoa (use a <strong>busca</strong> no topo).</div></li>
+  <li><span>2</span><div>Clique em <strong>✏️ Sugerir correção</strong>, <strong>➕ Acrescentar filho(a)</strong> ou
+  <strong>📷 Enviar foto ou documento</strong> e preencha.</div></li>
+  <li><span>3</span><div>Quem mantém o site confere e aprova. Em poucos minutos, a informação aparece aqui.</div></li>
 </ol>
-<p>Não precisa saber programar: envie as pastas compactadas (.zip) ou as informações por e-mail para quem mantém o site.</p>
+<p class="nota">Os botões abrem um formulário no GitHub, onde o site está guardado. É preciso uma <a href="https://github.com/signup" target="_blank" rel="noopener">conta gratuita</a>. Sem conta? Fale com quem mantém o site.</p>
 </section>
+
 <section id="privacidade"><h2>Privacidade</h2>
-<p>Na versão pública, pessoas que podem estar vivas (nascidas há menos de 100 anos, ou sem data mas de gerações recentes)
-aparecem apenas com o <strong>ano</strong> das datas, sem horários, endereços, telefones ou e-mails. Por quê?</p>
-<ol>
-<li><strong>Fraude e roubo de identidade:</strong> nome completo, data de nascimento e nomes dos pais são exatamente o que bancos,
-operadoras e serviços públicos usam para confirmar quem é a pessoa — e este site é público e aparece no Google.</li>
-<li><strong>Crianças:</strong> a LGPD (Lei Geral de Proteção de Dados, art. 14) exige cuidado especial com dados de crianças;
-datas completas ligadas aos nomes dos pais não devem ficar expostas.</li>
-<li><strong>É o padrão da genealogia:</strong> FamilySearch, MyHeritage e Ancestry escondem os dados de pessoas vivas.
-As datas completas dos antepassados continuam aparecendo.</li>
-</ol>
-<p>A data completa não se perde: fica guardada no arquivo privado da família e passa a aparecer aqui quando a pessoa completar
-100 anos. Se você quer que seus dados sejam retirados ou corrigidos, use o botão
-“Sugerir correção” na sua página ou fale com quem mantém o site.</p>
+<p>Para quem nasceu há menos de 100 anos, o site mostra só o <strong>ano</strong> de nascimento, e nunca mostra
+telefone, endereço ou e-mail. Os motivos:</p>
+<ul>
+  <li><strong>Segurança:</strong> nome, data de nascimento e nomes dos pais são usados por bancos para confirmar
+  identidade. Publicá-los juntos facilita fraudes.</li>
+  <li><strong>Crianças:</strong> a LGPD (art. 14) pede cuidado especial com os dados delas.</li>
+  <li><strong>É o padrão:</strong> FamilySearch, MyHeritage e Ancestry fazem o mesmo.</li>
+</ul>
+<p class="nota">A data completa fica guardada no arquivo da família e aparece aqui quando a pessoa completar 100 anos.
+Para corrigir ou retirar seus dados, use “Sugerir correção” na sua página.</p>
 </section>
-<section><h2>Arquivo GEDCOM</h2><p>O arquivo <a href="arvore.ged">arvore.ged</a> (padrão GEDCOM 5.5.1) pode ser importado em FamilySearch, MyHeritage, Ancestry, Gramps e outros programas de genealogia.</p></section>
-<section><h2>História do projeto (texto original, 2001)</h2><div class="historia texto-livre">A idéia de criar árvores genealógicas na Internet foi do meu irmão Fernando
+
+<section><h2>Levar a árvore para outro programa</h2>
+<p>Baixe o arquivo <a href="arvore.ged">arvore.ged</a>. Ele pode ser importado no FamilySearch, MyHeritage, Ancestry ou Gramps.</p>
+</section>
+
+<details class="historia-projeto"><summary>Como este site começou (texto original de 2001)</summary>
+<section><h2></h2><div class="historia texto-livre">A idéia de criar árvores genealógicas na Internet foi do meu irmão Fernando
 Zampirolli ([e-mail omitido]) e eu, numa visita que o fiz em Belo Horizonte
 em 1996. Passados alguns anos, com a chegada das bodas de ouro dos meus pais,
 voltou o interesse em melhorar as páginas localizadas inicialmente em 
@@ -132,9 +120,10 @@ Quaisquer dúvidas, sugestões e/ou informações, escreva para:
 
 Francisco de Assis Zampirolli.
 </div></section>
+</details>
 </main>
 <footer>
-  <p>Gerado em 10/10/2026 às 19:44 a partir das pastas de dados ·
+  <p>Gerado em 10/10/2026 às 19:47 a partir das pastas de dados ·
   <a href="arvore.ged">baixar GEDCOM</a> ·
   versão pública: telefones, endereços e datas exatas de pessoas possivelmente vivas foram omitidos</p>
 </footer>
