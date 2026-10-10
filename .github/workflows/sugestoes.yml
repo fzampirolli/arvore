@@ -1,0 +1,35 @@
+# Gerado automaticamente por gerador/gerar.py. Não edite aqui.
+name: Sugestões
+on:
+  issues:
+    types: [opened, edited, labeled]
+permissions:
+  issues: write
+  contents: read
+jobs:
+  conferir:
+    if: github.event.action != 'labeled'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            .github/scripts
+            dados.json
+          sparse-checkout-cone-mode: false
+      - name: Conferir a sugestão
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/sugestoes.py validar --evento "$GITHUB_EVENT_PATH" --dados dados.json
+  aplicar:
+    # O mantenedor colocou o rótulo "aprovado": avisa o repositório de dados para aplicar e republicar
+    if: github.event.action == 'labeled' && github.event.label.name == 'aprovado'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pedir a aplicação no repositório de dados
+        env:
+          TOKEN: ${{ secrets.TOKEN_ARVORE }}
+        run: |
+          curl -sSf -X POST -H "Authorization: Bearer $TOKEN" -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/fzampirolli/arvore-dados/dispatches \
+            -d '{"event_type":"sugestao-aprovada","client_payload":{"issue":${{ github.event.issue.number }}}}'

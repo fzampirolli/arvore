@@ -1,0 +1,68 @@
+name: 📷 Enviar foto ou documento
+description: Enviar fotos ou documentos de uma pessoa da árvore
+title: "Foto/documento: "
+labels: ["sugestão", "foto ou documento"]
+body:
+  - type: markdown
+    attributes:
+      value: "Envie fotos antigas ou documentos (certidões, listas de navio…). **Arraste os arquivos** para o campo “Arquivos” abaixo. Aceitamos JPG, PNG, GIF e PDF de até 25 MB.\n\n⚠️ **Esta sugestão fica pública na internet.** Não escreva telefone, endereço, e-mail, CPF/RG nem datas completas de pessoas vivas (para elas, informe só o ano). Nada é publicado no site antes de ser revisado por quem mantém a árvore."
+  - type: input
+    id: pessoa
+    attributes:
+      label: "Pessoa"
+      description: "Preenchido automaticamente. Não altere."
+    validations:
+      required: true
+  - type: textarea
+    id: arquivos
+    attributes:
+      label: "Arquivos"
+      description: "Arraste as fotos ou os PDFs para cá."
+    validations:
+      required: true
+  - type: input
+    id: legenda
+    attributes:
+      label: "Legenda"
+      description: "O que é? Quem aparece? Ex.: “Bodas de ouro de Domingos e Rosalina, 2000”."
+    validations:
+      required: true
+  - type: dropdown
+    id: fonte
+    attributes:
+      label: "Fonte da informação"
+      description: "De onde vem o arquivo?"
+      options:
+        - "Certidão ou documento oficial"
+        - "Registro de imigração / lista de navio"
+        - "Registro de igreja (batismo, casamento)"
+        - "Conheço pessoalmente (sou a pessoa ou parente próximo)"
+        - "Relato de outro familiar"
+        - "Outra"
+    validations:
+      required: true
+  - type: input
+    id: fonte_detalhe
+    attributes:
+      label: "Detalhe da fonte"
+      description: "Ex.: álbum da tia Lourdes; cartório de Vitória."
+    validations:
+      required: false
+  - type: input
+    id: quem
+    attributes:
+      label: "Quem está enviando"
+      description: "Seu nome e parentesco."
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmacoes
+    attributes:
+      label: "Confirmações"
+      options:
+        - label: "Tenho o direito de compartilhar estes arquivos."
+          required: true
+        - label: "As pessoas vivas que aparecem nas fotos concordam com a publicação."
+          required: true
+    validations:
+      required: true

@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sobre · Árvores Genealógicas</title>
+<meta name="description" content="Como o site é feito e como contribuir">
+<link rel="stylesheet" href="assets/estilo.css">
+</head>
+<body class="">
+
+<header class="topo">
+  <a class="marca" href="index.html"><span class="logo" aria-hidden="true"></span>Árvores Genealógicas</a>
+  <nav><a href="arvore-visual.html">Árvore interativa</a><a href="arvore.html">Lista completa</a><a href="linha-do-tempo.html">Linha do tempo</a><a href="contexto.html">História e lugares</a><a href="sobre.html">Sobre</a></nav>
+  <div class="busca" role="search">
+    <input id="busca" type="search" placeholder="Buscar pessoa…" autocomplete="off" aria-label="Buscar pessoa">
+    <ol id="resultados" hidden></ol>
+  </div>
+</header>
+<main>
+<h1>Sobre este site</h1>
+<section id="contribuir"><h2>Como contribuir</h2>
+<p>As páginas são geradas automaticamente a partir de uma estrutura de pastas — cada pasta é uma pessoa:</p>
+<pre class="exemplo">04Magri/                      ← um sobrenome (família)
+└── 00Giuseppe/               ← uma pessoa
+    ├── DADOS.TXT             ← dados pessoais
+    ├── HISTORIA.TXT          ← (opcional) história, em texto livre
+    ├── fig/                  ← (opcional) fotos; subpastas viram álbuns
+    │   └── Casamento_de_Rosa_1910.jpg
+    ├── certidao_de_casamento.pdf   ← (opcional) documentos
+    └── 01Carlos/             ← um filho: 2 dígitos (ordem de nascimento) + nome
+</pre>
+<ol>
+<li>Para cada filho, crie uma subpasta com <strong>dois dígitos</strong> de ordem de nascimento e o nome, trocando espaços por <code>_</code> (ex.: <code>11Francisco_de_Assis</code>). Use <code>00</code> se a ordem for desconhecida.</li>
+<li>Crie o arquivo <code>DADOS.TXT</code>, uma informação por linha:
+<pre class="exemplo">Nascimento: 06-12-1968, Jaciguá, Cachoeiro de Itapemirim - ES
+Esposa: Nome Completo (nascida em 15-01-1970, Rio de Janeiro)
+Casamento: 19-12-1998, Niterói - RJ
+Falecimento: 02-03-2001, Vitória - ES
+Nome do navio: Adria
+Data de chegada: 31/12/1888
+Ultima residência: Pettorazza Grimani</pre>
+Também são aceitos <code>Esposo</code>, <code>Marido</code>, <code>Telefone</code>, <code>Endereço</code> — telefone e endereço <em>nunca</em> são publicados na versão pública.</li>
+<li>Coloque as fotos na subpasta <code>fig</code>, com nomes descritivos (<code>Bodas_de_Ouro_2000.jpg</code>). O nome vira a legenda.</li>
+<li>Rode <code>python3 gerador/gerar.py</code> na pasta principal. O site fica em <code>site/</code>.</li>
+</ol>
+<p>Não precisa saber programar: envie as pastas compactadas (.zip) ou as informações por e-mail para quem mantém o site.</p>
+</section>
+<section><h2>Privacidade</h2>
+<p>Na versão pública, pessoas que podem estar vivas (nascidas há menos de 100 anos, ou sem data mas de gerações recentes)
+aparecem apenas com o <strong>ano</strong> das datas, sem horários, endereços, telefones ou e-mails. Se você quer que seus dados sejam retirados ou corrigidos, entre em contato.</p>
+</section>
+<section><h2>Arquivo GEDCOM</h2><p>O arquivo <a href="arvore.ged">arvore.ged</a> (padrão GEDCOM 5.5.1) pode ser importado em FamilySearch, MyHeritage, Ancestry, Gramps e outros programas de genealogia.</p></section>
+<section><h2>História do projeto (texto original, 2001)</h2><div class="historia texto-livre">A idéia de criar árvores genealógicas na Internet foi do meu irmão Fernando
+Zampirolli ([e-mail omitido]) e eu, numa visita que o fiz em Belo Horizonte
+em 1996. Passados alguns anos, com a chegada das bodas de ouro dos meus pais,
+voltou o interesse em melhorar as páginas localizadas inicialmente em 
+<A HREF="http://www.bhnet.com.br/~fz/arvore.html"><b>Árvore Genealógica da família Zampirolli</b></A>. Para isto, criei um gerador
+automático de páginas. Este gerador só funciona se os dados estiverem 
+estruturados da forma abaixo.   
+
+<i>Para que este trabalho seja de boa qualidade, conto com a ajuda de todos
+para fazer um levantamento de <b>toda informação relevante</b> de nossas
+famílias. Por favor, divulgue ao máximo esta página.</i>
+
+Dicas para geração automática de páginas html:
+
+(0) Se quiser criar um novo ramo de sobrenomes, crie um diretório
+sobrenome. Observe que já esta criado para Zampirolli, Balarini, Dalfiôr e
+Magri. Não é necessário criar novamente para este sobrenomes.
+
+Para cada diretório correspondente a uma pessoa faça:
+
+(1) Crie um subdiretório para cada filho, se existir.  Os espaços serão
+substituídos por '_'. Além disso, coloque dois números de 0 a 9 antes do nome
+para a ordem de idade dos filhos. Por exemplo, 'Francisco de Assis' deverá ter
+o diretório chamado '11Francisco_de_Assis'.
+
+(2) Crie um arquivo chamado 'dados.txt' contendo, por exemplo:
+
+Nascimento: __-__-1___,  às __ hs, local
+Esposa: <b>__________________</b> (__-__-1___,  às __ hs, local_____)
+Data, Hora e Local do casamento: __-__-1__,_ às __hs, local____
+Telefone: (0xx__) ____ ____
+Endereço: ________________________________________________
+...
+
+(3) Crie um subdiretório chamado 'fig' com as fotos que serão postas nas
+páginas. Use nomes sugestivos para as fotos, por exemplo:
+'Aniversáro_do_Vinícios_12-12-2000.gif'. Observe que em vez de espaço,
+coloquei '_'. De preferência use o formato 'gif' para as imagens, pois é bem
+compacto.
+
+(4) Crie um arquivo chamado 'historia.txt' contendo o que achar relevante
+sobre a sua vida, familia, profissão, etc.
+
+(5) Criados os diretórios, arquivos .txt e fotos, as páginas são geradas
+automaticamente através de um programa chamado "fzgenHtlmFamily.m" que só é
+executado na linguagem MATLAB.
+
+Creio que este passo (5) seja inviável para quem não conhece esta linguagem
+Matlab. Logo, me disponho a gerar as páginas Html.  Para isto, basta enviar a
+estrutura de diretórios, comprimidas com um compactar que gera .zip, por
+e-mail.
+
+Lembre-se que estes documentos estarão disponíveis na Internet, logo não
+coloque dados importantes sobre a sua pessoa, como por exemplo, número de
+documentos.
+
+Em breve, irei criar um programa que gera arquivo 'poscript'.  Com isto,
+poderemos imprimir, em forma de livro, as árvores genealógicas.
+  
+Quaisquer dúvidas, sugestões e/ou informações, escreva para:
+
+      <b>[e-mail omitido]</b> ou
+      
+
+      [endereço omitido]
+      [endereço omitido]
+      [endereço omitido]
+
+Francisco de Assis Zampirolli.
+</div></section>
+</main>
+<footer>
+  <p>Gerado em 10/10/2026 às 15:24 a partir das pastas de dados ·
+  <a href="arvore.ged">baixar GEDCOM</a> ·
+  versão pública: telefones, endereços e datas exatas de pessoas possivelmente vivas foram omitidos</p>
+</footer>
+<dialog id="visor"><img alt=""><p></p><button type="button" aria-label="Fechar">×</button></dialog>
+<script>window.RAIZ = "";</script>
+<script src="assets/pessoas.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

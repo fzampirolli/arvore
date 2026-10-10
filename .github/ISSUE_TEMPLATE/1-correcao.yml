@@ -1,0 +1,112 @@
+name: ✏️ Corrigir ou completar dados
+description: Corrigir ou acrescentar informações de uma pessoa da árvore
+title: "Correção: "
+labels: ["sugestão", "correção"]
+body:
+  - type: markdown
+    attributes:
+      value: "Obrigado por ajudar a árvore! 🌳 Os campos já vêm com o que está no site: **altere só o que estiver errado ou faltando**. Para apagar uma informação errada, escreva `APAGAR` no campo.\n\n⚠️ **Esta sugestão fica pública na internet.** Não escreva telefone, endereço, e-mail, CPF/RG nem datas completas de pessoas vivas (para elas, informe só o ano). Nada é publicado no site antes de ser revisado por quem mantém a árvore."
+  - type: input
+    id: pessoa
+    attributes:
+      label: "Pessoa"
+      description: "Preenchido automaticamente. Não altere."
+    validations:
+      required: true
+  - type: input
+    id: nome_completo
+    attributes:
+      label: "Nome completo"
+      description: "Nome completo, como nos documentos."
+    validations:
+      required: false
+  - type: input
+    id: nascimento
+    attributes:
+      label: "Nascimento"
+      description: "Data (dd/mm/aaaa) e local. Para pessoas vivas, só o ano e o local."
+      placeholder: "ex.: 11/02/1925, Jaciguá, Cachoeiro de Itapemirim - ES"
+    validations:
+      required: false
+  - type: input
+    id: falecimento
+    attributes:
+      label: "Falecimento"
+      description: "Data e local, se a pessoa já faleceu."
+    validations:
+      required: false
+  - type: input
+    id: conjuge
+    attributes:
+      label: "Cônjuge"
+      description: "Nome do marido ou da esposa."
+    validations:
+      required: false
+  - type: input
+    id: casamento
+    attributes:
+      label: "Casamento"
+      description: "Data e local do casamento."
+    validations:
+      required: false
+  - type: input
+    id: residencia
+    attributes:
+      label: "Onde morou"
+      description: "Só para quem já faleceu: cidade ou região onde viveu."
+    validations:
+      required: false
+  - type: textarea
+    id: observacao
+    attributes:
+      label: "Outra correção ou informação"
+      description: "Qualquer outra correção (ordem dos irmãos, grafia do nome…)."
+    validations:
+      required: false
+  - type: textarea
+    id: historia
+    attributes:
+      label: "História ou lembrança"
+      description: "Uma lembrança, a profissão, de onde veio… Vai para a seção “História”."
+    validations:
+      required: false
+  - type: dropdown
+    id: fonte
+    attributes:
+      label: "Fonte da informação"
+      description: "Como você sabe disso?"
+      options:
+        - "Certidão ou documento oficial"
+        - "Registro de imigração / lista de navio"
+        - "Registro de igreja (batismo, casamento)"
+        - "Conheço pessoalmente (sou a pessoa ou parente próximo)"
+        - "Relato de outro familiar"
+        - "Outra"
+    validations:
+      required: true
+  - type: input
+    id: fonte_detalhe
+    attributes:
+      label: "Detalhe da fonte"
+      description: "Ex.: certidão de casamento do cartório de Jaciguá, livro 3, folha 20; ou “minha avó contou”."
+      placeholder: "Opcional, mas ajuda muito"
+    validations:
+      required: false
+  - type: input
+    id: quem
+    attributes:
+      label: "Quem está enviando"
+      description: "Seu nome e parentesco (ex.: “Ana, neta de José”)."
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmacoes
+    attributes:
+      label: "Confirmações"
+      options:
+        - label: "As informações são verdadeiras, até onde sei."
+          required: true
+        - label: "Não incluí telefone, endereço, documentos nem datas completas de pessoas vivas."
+          required: true
+    validations:
+      required: true

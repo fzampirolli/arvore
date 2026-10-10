@@ -1,0 +1,2861 @@
+{
+ "site": "https://fzampirolli.github.io/arvore/",
+ "pessoas": {
+  "01Giacomo": {
+   "n": "Giacomo Zampirollo",
+   "g": 1,
+   "u": "01Giacomo/index.html",
+   "ano": 1830,
+   "pai": null,
+   "filhos": [
+    "01Giacomo/01Vincenzo",
+    "01Giacomo/02Giovanni",
+    "01Giacomo/03Domenico",
+    "01Giacomo/04Antonio",
+    "01Giacomo/05Tereza_Felicita"
+   ],
+   "vivo": false,
+   "campos": {
+    "nascimento": "~ 1830",
+    "conjuge": "Luigia Maria Braggio (Nascida ~1834 na província de Rovigo)"
+   }
+  },
+  "01Giacomo/01Vincenzo": {
+   "n": "Vincenzo",
+   "g": 2,
+   "u": "01Giacomo/01Vincenzo/index.html",
+   "ano": 1855,
+   "pai": "01Giacomo",
+   "filhos": [
+    "01Giacomo/01Vincenzo/01Regina",
+    "01Giacomo/01Vincenzo/02Alessandro"
+   ],
+   "vivo": false,
+   "campos": {
+    "nascimento": "~1855",
+    "conjuge": "Maria Franchin (27 anos)"
+   }
+  },
+  "01Giacomo/01Vincenzo/01Regina": {
+   "n": "Regina",
+   "g": 3,
+   "u": "01Giacomo/01Vincenzo/01Regina/index.html",
+   "ano": null,
+   "pai": "01Giacomo/01Vincenzo",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/01Vincenzo/02Alessandro": {
+   "n": "Alessandro",
+   "g": 3,
+   "u": "01Giacomo/01Vincenzo/02Alessandro/index.html",
+   "ano": null,
+   "pai": "01Giacomo/01Vincenzo",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni": {
+   "n": "Giovanni",
+   "g": 2,
+   "u": "01Giacomo/02Giovanni/index.html",
+   "ano": null,
+   "pai": "01Giacomo",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose",
+    "01Giacomo/02Giovanni/02Maria_Regina",
+    "01Giacomo/02Giovanni/03Angelo",
+    "01Giacomo/02Giovanni/04Cesar",
+    "01Giacomo/02Giovanni/05Amalia",
+    "01Giacomo/02Giovanni/06Francisco"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Gacintha Grassetto (25 anos)"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose": {
+   "n": "Jose",
+   "g": 3,
+   "u": "01Giacomo/02Giovanni/01Jose/index.html",
+   "ano": 1886,
+   "pai": "01Giacomo/02Giovanni",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/01Maria",
+    "01Giacomo/02Giovanni/01Jose/02Jacinta",
+    "01Giacomo/02Giovanni/01Jose/03Antonio",
+    "01Giacomo/02Giovanni/01Jose/04Afonso",
+    "01Giacomo/02Giovanni/01Jose/05Luiz",
+    "01Giacomo/02Giovanni/01Jose/06Josefina",
+    "01Giacomo/02Giovanni/01Jose/07Domingos",
+    "01Giacomo/02Giovanni/01Jose/08Rosa",
+    "01Giacomo/02Giovanni/01Jose/09Benjamim"
+   ],
+   "vivo": false,
+   "campos": {
+    "nascimento": "~ 1886 na Itália",
+    "conjuge": "Dosolina Dalfiôr (~ 1888) natural da Itália, filha de Ferdinando Daifior e Maria Pauli",
+    "casamento": "24/05/1913 no distrito de São José, comarca de Cachoeiro do Itapemirim. Ela com 24 anos e ele com 27 anos."
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/01Maria": {
+   "n": "Maria",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/01Jose/01Maria/index.html",
+   "ano": 1912,
+   "pai": "01Giacomo/02Giovanni/01Jose",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "nascimento": "~ fevereiro de 1912",
+    "falecimento": "in memoriam"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/02Jacinta": {
+   "n": "Jacinta",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/02Jacinta/01Arlindo",
+    "01Giacomo/02Giovanni/01Jose/02Jacinta/02Antonio",
+    "01Giacomo/02Giovanni/01Jose/02Jacinta/03Luiza",
+    "01Giacomo/02Giovanni/01Jose/02Jacinta/04Natalina",
+    "01Giacomo/02Giovanni/01Jose/02Jacinta/05Jose",
+    "01Giacomo/02Giovanni/01Jose/02Jacinta/06Afonso",
+    "01Giacomo/02Giovanni/01Jose/02Jacinta/07Santo"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Sebastião Partelli",
+    "residencia": "norte do ES"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/02Jacinta/01Arlindo": {
+   "n": "Arlindo",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/01Arlindo/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/02Jacinta",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/02Jacinta/02Antonio": {
+   "n": "Antonio",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/02Antonio/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/02Jacinta",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/02Jacinta/03Luiza": {
+   "n": "Luiza",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/03Luiza/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/02Jacinta",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/02Jacinta/04Natalina": {
+   "n": "Natalina",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/04Natalina/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/02Jacinta",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/02Jacinta/05Jose": {
+   "n": "Jose",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/05Jose/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/02Jacinta",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/02Jacinta/06Afonso": {
+   "n": "Afonso",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/06Afonso/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/02Jacinta",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/02Jacinta/07Santo": {
+   "n": "Santo",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/02Jacinta/07Santo/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/02Jacinta",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/03Antonio": {
+   "n": "Antonio",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/01Jose/03Antonio/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/03Antonio/01Ana",
+    "01Giacomo/02Giovanni/01Jose/03Antonio/02Neusa",
+    "01Giacomo/02Giovanni/01Jose/03Antonio/03Margarida",
+    "01Giacomo/02Giovanni/01Jose/03Antonio/04Sebartiao",
+    "01Giacomo/02Giovanni/01Jose/03Antonio/05Elias",
+    "01Giacomo/02Giovanni/01Jose/03Antonio/06Odete",
+    "01Giacomo/02Giovanni/01Jose/03Antonio/07Penha"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Osilia Balarini",
+    "residencia": "Cachoeiro de Itapemirim"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/03Antonio/01Ana": {
+   "n": "Ana",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/03Antonio/01Ana/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/03Antonio",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/03Antonio/02Neusa": {
+   "n": "Neusa",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/03Antonio/02Neusa/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/03Antonio",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/03Antonio/03Margarida": {
+   "n": "Margarida",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/03Antonio/03Margarida/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/03Antonio",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/03Antonio/04Sebartiao": {
+   "n": "Sebartiao",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/03Antonio/04Sebartiao/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/03Antonio",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/03Antonio/05Elias": {
+   "n": "Elias",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/03Antonio/05Elias/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/03Antonio",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/03Antonio/06Odete": {
+   "n": "Odete",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/03Antonio/06Odete/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/03Antonio",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/03Antonio/07Penha": {
+   "n": "Penha",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/03Antonio/07Penha/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/03Antonio",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/04Afonso": {
+   "n": "Afonso",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/04Afonso/01Luiz",
+    "01Giacomo/02Giovanni/01Jose/04Afonso/02Rita",
+    "01Giacomo/02Giovanni/01Jose/04Afonso/03Carlos",
+    "01Giacomo/02Giovanni/01Jose/04Afonso/04Madalena",
+    "01Giacomo/02Giovanni/01Jose/04Afonso/05Geraldo",
+    "01Giacomo/02Giovanni/01Jose/04Afonso/06Helvecio",
+    "01Giacomo/02Giovanni/01Jose/04Afonso/07Tereza",
+    "01Giacomo/02Giovanni/01Jose/04Afonso/08Valentim",
+    "01Giacomo/02Giovanni/01Jose/04Afonso/09Cecilia",
+    "01Giacomo/02Giovanni/01Jose/04Afonso/10Silvio",
+    "01Giacomo/02Giovanni/01Jose/04Afonso/11Rosa_Ines"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Arminda Curitiba",
+    "residencia": "Cachoeiro de Itapemirim"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/04Afonso/01Luiz": {
+   "n": "Luiz",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/01Luiz/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/04Afonso/02Rita": {
+   "n": "Rita",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/02Rita/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/04Afonso/03Carlos": {
+   "n": "Carlos",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/03Carlos/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/04Afonso/04Madalena": {
+   "n": "Madalena",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/04Madalena/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/04Afonso/05Geraldo": {
+   "n": "Geraldo",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/05Geraldo/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/04Afonso/06Helvecio": {
+   "n": "Helvecio",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/06Helvecio/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/04Afonso/07Tereza": {
+   "n": "Tereza",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/07Tereza/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/04Afonso/08Valentim": {
+   "n": "Valentim",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/08Valentim/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/04Afonso/09Cecilia": {
+   "n": "Cecilia",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/09Cecilia/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/04Afonso/10Silvio": {
+   "n": "Silvio",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/10Silvio/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/04Afonso/11Rosa_Ines": {
+   "n": "Rosa Ines",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/04Afonso/11Rosa_Ines/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/04Afonso",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/05Luiz": {
+   "n": "Luiz",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/01Jose/05Luiz/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/06Josefina": {
+   "n": "Josefina",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/01Jose/06Josefina/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/06Josefina/01Miguel",
+    "01Giacomo/02Giovanni/01Jose/06Josefina/02Mario",
+    "01Giacomo/02Giovanni/01Jose/06Josefina/03Maria_Helena",
+    "01Giacomo/02Giovanni/01Jose/06Josefina/04Mateus",
+    "01Giacomo/02Giovanni/01Jose/06Josefina/05Mauro",
+    "01Giacomo/02Giovanni/01Jose/06Josefina/06Murilo"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Rafael Monteiro (20-04-1927)",
+    "residencia": "Vitória - ES"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/06Josefina/01Miguel": {
+   "n": "Miguel",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/06Josefina/01Miguel/index.html",
+   "ano": 1956,
+   "pai": "01Giacomo/02Giovanni/01Jose/06Josefina",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1956",
+    "conjuge": "Adil"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/06Josefina/02Mario": {
+   "n": "Mario",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/06Josefina/02Mario/index.html",
+   "ano": 1957,
+   "pai": "01Giacomo/02Giovanni/01Jose/06Josefina",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1957"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/06Josefina/03Maria_Helena": {
+   "n": "Maria Helena",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/06Josefina/03Maria_Helena/index.html",
+   "ano": 1958,
+   "pai": "01Giacomo/02Giovanni/01Jose/06Josefina",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1958"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/06Josefina/04Mateus": {
+   "n": "Mateus",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/06Josefina/04Mateus/index.html",
+   "ano": 1960,
+   "pai": "01Giacomo/02Giovanni/01Jose/06Josefina",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1960"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/06Josefina/05Mauro": {
+   "n": "Mauro",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/06Josefina/05Mauro/index.html",
+   "ano": 1962,
+   "pai": "01Giacomo/02Giovanni/01Jose/06Josefina",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1962"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/06Josefina/06Murilo": {
+   "n": "Murilo",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/06Josefina/06Murilo/index.html",
+   "ano": 1967,
+   "pai": "01Giacomo/02Giovanni/01Jose/06Josefina",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1967"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos": {
+   "n": "Domingos",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/index.html",
+   "ano": 1925,
+   "pai": "01Giacomo/02Giovanni/01Jose",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/07Domingos/01Lourdes",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/02Ilario",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/04Pedro",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/05Luzia",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/06Braz",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/07Fernando",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/08Joao_Bosco",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis"
+   ],
+   "vivo": false,
+   "campos": {
+    "nascimento": "11-02-1925 no distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "conjuge": "Rosalina Balarini (28-01-1931)",
+    "casamento": "01-06-1950, Jaciguá",
+    "residencia": "Cachoeiro de Itapemirim - ES"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/01Lourdes": {
+   "n": "Lourdes",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/01Lourdes/index.html",
+   "ano": 1951,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/07Domingos/01Lourdes/01Wilton_Gomes_Costa_Junior",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/01Lourdes/02Polliana_Gomes_Costa"
+   ],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1951 no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "conjuge": "Wilton Gomes Costa Sobrinho",
+    "casamento": "1983, local Matriz Velha - Cach."
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/01Lourdes/01Wilton_Gomes_Costa_Junior": {
+   "n": "Wilton Gomes Costa Junior",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/01Lourdes/01Wilton_Gomes_Costa_Junior/index.html",
+   "ano": 1984,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/01Lourdes",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1984, local Cachoeiro de Itapemirim-ES"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/01Lourdes/02Polliana_Gomes_Costa": {
+   "n": "Polliana Gomes Costa",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/01Lourdes/02Polliana_Gomes_Costa/index.html",
+   "ano": 1988,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/01Lourdes",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1988, local Vitória"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/02Ilario": {
+   "n": "Ilario",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/02Ilario/index.html",
+   "ano": 1952,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "nascimento": "27-10-1952,, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "falecimento": "falecido com cinco meses de idade"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose": {
+   "n": "Jose",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose/index.html",
+   "ano": 1955,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose/01Mixely",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose/02Mixel",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose/03Tiago"
+   ],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1955, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "conjuge": "Marlene Buzon"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose/01Mixely": {
+   "n": "Mixely",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose/01Mixely/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose/02Mixel": {
+   "n": "Mixel",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose/02Mixel/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "falecimento": "in memoriam"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose/03Tiago": {
+   "n": "Tiago",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose/03Tiago/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/03Jose",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/04Pedro": {
+   "n": "Pedro",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/04Pedro/index.html",
+   "ano": 1955,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/07Domingos/04Pedro/01Fabiana",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/04Pedro/02Aline"
+   ],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1955, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "conjuge": "Marta Tomazini"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/04Pedro/01Fabiana": {
+   "n": "Fabiana",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/04Pedro/01Fabiana/index.html",
+   "ano": 1981,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/04Pedro",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1981"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/04Pedro/02Aline": {
+   "n": "Aline",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/04Pedro/02Aline/index.html",
+   "ano": 1982,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/04Pedro",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1982"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/05Luzia": {
+   "n": "Luzia",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/05Luzia/index.html",
+   "ano": 1957,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "nascimento": "21-02-1957,, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "falecimento": "falecida ao dois anos e seis meses"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/06Braz": {
+   "n": "Braz",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/06Braz/index.html",
+   "ano": 1958,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/07Domingos/06Braz/01Brunelly_Pereira",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/06Braz/02Fabricio"
+   ],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1958,, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "conjuge": "Helena Pereira"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/06Braz/01Brunelly_Pereira": {
+   "n": "Brunelly Pereira",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/06Braz/01Brunelly_Pereira/index.html",
+   "ano": 1986,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/06Braz",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1986"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/06Braz/02Fabricio": {
+   "n": "Fabricio",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/06Braz/02Fabricio/index.html",
+   "ano": 1999,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/06Braz",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1999"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/07Fernando": {
+   "n": "Fernando",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/07Fernando/index.html",
+   "ano": 1960,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/07Domingos/07Fernando/01Filipe_Batista",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/07Fernando/02Alice_Batista"
+   ],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1960 em Santana distrito de Jaciguá, município de Cachoeiro de Itapemirim - ES",
+    "conjuge": "Maria do Carmo Batista Zampirolli (Carminha)",
+    "casamento": "em Belo Horizonte no Civil 1984. No Religioso 1984, na Capela do Colégio das Irmãs do Bom Pastor."
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/07Fernando/01Filipe_Batista": {
+   "n": "Filipe Batista",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/07Fernando/01Filipe_Batista/index.html",
+   "ano": 1987,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/07Fernando",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "em Belo Horizonte no Hospital Frederico Hozanan 1987."
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/07Fernando/02Alice_Batista": {
+   "n": "Alice Batista",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/07Fernando/02Alice_Batista/index.html",
+   "ano": 1991,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/07Fernando",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "em Vespasiano, na Maternidade Vespasiano Ltda. (Pertence a grande Belo Horizonte) 1991."
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/08Joao_Bosco": {
+   "n": "Joao Bosco",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/08Joao_Bosco/index.html",
+   "ano": 1962,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/07Domingos/08Joao_Bosco/01Igor_Nevex",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/08Joao_Bosco/02Ivan_Neves"
+   ],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1962, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "conjuge": "Lúcia neves gomes",
+    "casamento": "1985"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/08Joao_Bosco/01Igor_Nevex": {
+   "n": "Igor Nevex",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/08Joao_Bosco/01Igor_Nevex/index.html",
+   "ano": 1987,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/08Joao_Bosco",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1987"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/08Joao_Bosco/02Ivan_Neves": {
+   "n": "Ivan Neves",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/08Joao_Bosco/02Ivan_Neves/index.html",
+   "ano": 1992,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/08Joao_Bosco",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nome_completo": "Ivan Neves Zampirolli",
+    "nascimento": "1992"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo": {
+   "n": "Reinaldo",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/index.html",
+   "ano": 1964,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/01Josiane_Dias_Neves",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/02Natani",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/03Alan_Pablo_Dias",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/04Douglas_Sennas_Dias_Galiasso"
+   ],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1964, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "conjuge": "Alzira Rocha Dias"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/01Josiane_Dias_Neves": {
+   "n": "Josiane Dias Neves",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/01Josiane_Dias_Neves/index.html",
+   "ano": 1987,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1987, local Vitória"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/02Natani": {
+   "n": "Natani",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/02Natani/index.html",
+   "ano": 1994,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1994, local Cachoeiro de Itapemirim"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/03Alan_Pablo_Dias": {
+   "n": "Alan Pablo Dias",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/03Alan_Pablo_Dias/index.html",
+   "ano": 1994,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1994, local Cachoeiro de Itapemirim"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/04Douglas_Sennas_Dias_Galiasso": {
+   "n": "Douglas Sennas Dias Galiasso",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo/04Douglas_Sennas_Dias_Galiasso/index.html",
+   "ano": 1997,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/09Reinaldo",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1997, local Cachoeiro de Itapemirim"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete": {
+   "n": "Maria Salete",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/index.html",
+   "ano": 1965,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/01Victor_Hugo_Zampirolli_Aguiar",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/02Ana_Caroline_Diniz_Zampirolli",
+    "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/03Lucas_Zampirolli_Aguiar"
+   ],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1965, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "conjuge": "Carlos Alberto Diniz Aguiar",
+    "casamento": "1987, 17 local Cachoeiro - Igreja Nossa Senhora dos Passos (Matriz Velha)"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/01Victor_Hugo_Zampirolli_Aguiar": {
+   "n": "Victor Hugo Zampirolli Aguiar",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/01Victor_Hugo_Zampirolli_Aguiar/index.html",
+   "ano": 1988,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1988, local BH"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/02Ana_Caroline_Diniz_Zampirolli": {
+   "n": "Ana Caroline Diniz Zampirolli",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/02Ana_Caroline_Diniz_Zampirolli/index.html",
+   "ano": 1991,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1991, local BH"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/03Lucas_Zampirolli_Aguiar": {
+   "n": "Lucas Zampirolli Aguiar",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete/03Lucas_Zampirolli_Aguiar/index.html",
+   "ano": 1995,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos/10Maria_Salete",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1995, local BH"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis": {
+   "n": "Francisco de Assis",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/07Domingos/11Francisco_de_Assis/index.html",
+   "ano": 1968,
+   "pai": "01Giacomo/02Giovanni/01Jose/07Domingos",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "nascimento": "1968 em domicilio, no lugar denominado Santana, distrito de Jaciguá, municipio de Cachoeiro de Itapemirim, ES",
+    "conjuge": "Cristina Baptista Moura",
+    "casamento": "1998, na Igrejinha de São Francisco Chavier, Niterói - RJ"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/08Rosa": {
+   "n": "Rosa",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/01Jose/08Rosa/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/08Rosa/00Elizabeth",
+    "01Giacomo/02Giovanni/01Jose/08Rosa/00Elizete",
+    "01Giacomo/02Giovanni/01Jose/08Rosa/00Jose_Henrique",
+    "01Giacomo/02Giovanni/01Jose/08Rosa/00Maria_Aparecida",
+    "01Giacomo/02Giovanni/01Jose/08Rosa/00Ronaldo"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Aristides Basso",
+    "residencia": "norte do ES"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/08Rosa/00Elizabeth": {
+   "n": "Elizabeth",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/08Rosa/00Elizabeth/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/08Rosa",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/08Rosa/00Elizete": {
+   "n": "Elizete",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/08Rosa/00Elizete/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/08Rosa",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/08Rosa/00Jose_Henrique": {
+   "n": "Jose Henrique",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/08Rosa/00Jose_Henrique/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/08Rosa",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/08Rosa/00Maria_Aparecida": {
+   "n": "Maria Aparecida",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/08Rosa/00Maria_Aparecida/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/08Rosa",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/08Rosa/00Ronaldo": {
+   "n": "Ronaldo",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/08Rosa/00Ronaldo/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/08Rosa",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim": {
+   "n": "Benjamim",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene",
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/02Marilucia",
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice",
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli",
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana",
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Lucia D'angeles",
+    "residencia": "Cachoeiro de Itapemirim - ES"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene": {
+   "n": "Marlene",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene/01Andre_Zampirolli_De_Jesus",
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene/02Eduardo_Zampirolli_De_Jesus"
+   ],
+   "vivo": true,
+   "campos": {
+    "conjuge": "Vanderley de Jesus"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene/01Andre_Zampirolli_De_Jesus": {
+   "n": "Andre Zampirolli De Jesus",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene/01Andre_Zampirolli_De_Jesus/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene/02Eduardo_Zampirolli_De_Jesus": {
+   "n": "Eduardo Zampirolli De Jesus",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene/02Eduardo_Zampirolli_De_Jesus/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/01Marlene",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/02Marilucia": {
+   "n": "Marilucia",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/02Marilucia/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice": {
+   "n": "Helenice",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/01Fernando_Zampirolli_Azevedo",
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/02Benjamim_Zampirolli_Azevedo"
+   ],
+   "vivo": true,
+   "campos": {
+    "conjuge": "Evaldo Azevedo"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/01Fernando_Zampirolli_Azevedo": {
+   "n": "Fernando Zampirolli Azevedo",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/01Fernando_Zampirolli_Azevedo/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/02Benjamim_Zampirolli_Azevedo": {
+   "n": "Benjamim Zampirolli Azevedo",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice/02Benjamim_Zampirolli_Azevedo/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/03Helenice",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli": {
+   "n": "Marli",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/01Bernardo_Zampirolli_Moreira",
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/02Filipe_Zampirolli_Moreira"
+   ],
+   "vivo": true,
+   "campos": {
+    "conjuge": "Adelsom Moreira"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/01Bernardo_Zampirolli_Moreira": {
+   "n": "Bernardo Zampirolli Moreira",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/01Bernardo_Zampirolli_Moreira/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/02Filipe_Zampirolli_Moreira": {
+   "n": "Filipe Zampirolli Moreira",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli/02Filipe_Zampirolli_Moreira/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/04Marli",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana": {
+   "n": "Heliana",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana/01Gabriela",
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana/02Gabriel"
+   ],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana/01Gabriela": {
+   "n": "Gabriela",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana/01Gabriela/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana/02Gabriel": {
+   "n": "Gabriel",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana/02Gabriel/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/05Heliana",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder": {
+   "n": "Helder",
+   "g": 5,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim",
+   "filhos": [
+    "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder/01Yuri"
+   ],
+   "vivo": true,
+   "campos": {
+    "conjuge": "Juliana"
+   }
+  },
+  "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder/01Yuri": {
+   "n": "Yuri",
+   "g": 6,
+   "u": "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder/01Yuri/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/01Jose/09Benjamim/06Helder",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/02Maria_Regina": {
+   "n": "Maria Regina",
+   "g": 3,
+   "u": "01Giacomo/02Giovanni/02Maria_Regina/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "conjuge": "João Cipriano"
+   }
+  },
+  "01Giacomo/02Giovanni/03Angelo": {
+   "n": "Angelo",
+   "g": 3,
+   "u": "01Giacomo/02Giovanni/03Angelo/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni",
+   "filhos": [
+    "01Giacomo/02Giovanni/03Angelo/01Aurelio",
+    "01Giacomo/02Giovanni/03Angelo/02Virgilio",
+    "01Giacomo/02Giovanni/03Angelo/03Lurindo",
+    "01Giacomo/02Giovanni/03Angelo/04Constante",
+    "01Giacomo/02Giovanni/03Angelo/05Elizeu"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Carolina Jacomelli"
+   }
+  },
+  "01Giacomo/02Giovanni/03Angelo/01Aurelio": {
+   "n": "Aurelio",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/03Angelo/01Aurelio/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/03Angelo",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/03Angelo/02Virgilio": {
+   "n": "Virgilio",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/03Angelo/02Virgilio/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/03Angelo",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/03Angelo/03Lurindo": {
+   "n": "Lurindo",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/03Angelo/03Lurindo/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/03Angelo",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/03Angelo/04Constante": {
+   "n": "Constante",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/03Angelo/04Constante/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/03Angelo",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/03Angelo/05Elizeu": {
+   "n": "Elizeu",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/03Angelo/05Elizeu/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/03Angelo",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/04Cesar": {
+   "n": "Cesar",
+   "g": 3,
+   "u": "01Giacomo/02Giovanni/04Cesar/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni",
+   "filhos": [
+    "01Giacomo/02Giovanni/04Cesar/01Joao",
+    "01Giacomo/02Giovanni/04Cesar/02Albino",
+    "01Giacomo/02Giovanni/04Cesar/03Fernando"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Maria Zanette"
+   }
+  },
+  "01Giacomo/02Giovanni/04Cesar/01Joao": {
+   "n": "Joao",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/04Cesar/01Joao/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/04Cesar",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/04Cesar/02Albino": {
+   "n": "Albino",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/04Cesar/02Albino/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/04Cesar",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/04Cesar/03Fernando": {
+   "n": "Fernando",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/04Cesar/03Fernando/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/04Cesar",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/05Amalia": {
+   "n": "Amalia",
+   "g": 3,
+   "u": "01Giacomo/02Giovanni/05Amalia/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Bortolo Partelli"
+   }
+  },
+  "01Giacomo/02Giovanni/06Francisco": {
+   "n": "Francisco",
+   "g": 3,
+   "u": "01Giacomo/02Giovanni/06Francisco/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni",
+   "filhos": [
+    "01Giacomo/02Giovanni/06Francisco/01Vicenti",
+    "01Giacomo/02Giovanni/06Francisco/02Valdir",
+    "01Giacomo/02Giovanni/06Francisco/03Valdelino",
+    "01Giacomo/02Giovanni/06Francisco/04Valdemiro"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Tereza Jacomelli"
+   }
+  },
+  "01Giacomo/02Giovanni/06Francisco/01Vicenti": {
+   "n": "Vicenti",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/06Francisco/01Vicenti/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/06Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/06Francisco/02Valdir": {
+   "n": "Valdir",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/06Francisco/02Valdir/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/06Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/06Francisco/03Valdelino": {
+   "n": "Valdelino",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/06Francisco/03Valdelino/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/06Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/02Giovanni/06Francisco/04Valdemiro": {
+   "n": "Valdemiro",
+   "g": 4,
+   "u": "01Giacomo/02Giovanni/06Francisco/04Valdemiro/index.html",
+   "ano": null,
+   "pai": "01Giacomo/02Giovanni/06Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/03Domenico": {
+   "n": "Domenico",
+   "g": 2,
+   "u": "01Giacomo/03Domenico/index.html",
+   "ano": 1865,
+   "pai": "01Giacomo",
+   "filhos": [
+    "01Giacomo/03Domenico/01Alexandre",
+    "01Giacomo/03Domenico/02Joao",
+    "01Giacomo/03Domenico/03Adolfo",
+    "01Giacomo/03Domenico/04Antonio"
+   ],
+   "vivo": false,
+   "campos": {
+    "nascimento": "~ 1865"
+   }
+  },
+  "01Giacomo/03Domenico/01Alexandre": {
+   "n": "Alexandre",
+   "g": 3,
+   "u": "01Giacomo/03Domenico/01Alexandre/index.html",
+   "ano": null,
+   "pai": "01Giacomo/03Domenico",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/03Domenico/02Joao": {
+   "n": "Joao",
+   "g": 3,
+   "u": "01Giacomo/03Domenico/02Joao/index.html",
+   "ano": null,
+   "pai": "01Giacomo/03Domenico",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/03Domenico/03Adolfo": {
+   "n": "Adolfo",
+   "g": 3,
+   "u": "01Giacomo/03Domenico/03Adolfo/index.html",
+   "ano": null,
+   "pai": "01Giacomo/03Domenico",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/03Domenico/04Antonio": {
+   "n": "Antonio",
+   "g": 3,
+   "u": "01Giacomo/03Domenico/04Antonio/index.html",
+   "ano": null,
+   "pai": "01Giacomo/03Domenico",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "01Giacomo/04Antonio": {
+   "n": "Antonio",
+   "g": 2,
+   "u": "01Giacomo/04Antonio/index.html",
+   "ano": 1873,
+   "pai": "01Giacomo",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "nascimento": "~ 1873"
+   }
+  },
+  "01Giacomo/05Tereza_Felicita": {
+   "n": "Tereza Felicita",
+   "g": 2,
+   "u": "01Giacomo/05Tereza_Felicita/index.html",
+   "ano": 1878,
+   "pai": "01Giacomo",
+   "filhos": [
+    "01Giacomo/05Tereza_Felicita/01Botolo_De_Angele",
+    "01Giacomo/05Tereza_Felicita/02Luiz_De_Angele",
+    "01Giacomo/05Tereza_Felicita/03Joao_De_Angele",
+    "01Giacomo/05Tereza_Felicita/04Marco_De_Angele",
+    "01Giacomo/05Tereza_Felicita/05Benjamim_De_Angele",
+    "01Giacomo/05Tereza_Felicita/06Antonio_De_Angele",
+    "01Giacomo/05Tereza_Felicita/07Alexandre_De_Angele"
+   ],
+   "vivo": false,
+   "campos": {
+    "nascimento": "Itália em 20/07/1878",
+    "conjuge": "Giuseppe Valentim De Angeli",
+    "residencia": "Jaciguá"
+   }
+  },
+  "01Giacomo/05Tereza_Felicita/01Botolo_De_Angele": {
+   "n": "Botolo De Angele",
+   "g": 3,
+   "u": "01Giacomo/05Tereza_Felicita/01Botolo_De_Angele/index.html",
+   "ano": null,
+   "pai": "01Giacomo/05Tereza_Felicita",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "residencia": "São João do Oriente, Distrito de Jaciguá"
+   }
+  },
+  "01Giacomo/05Tereza_Felicita/02Luiz_De_Angele": {
+   "n": "Luiz De Angele",
+   "g": 3,
+   "u": "01Giacomo/05Tereza_Felicita/02Luiz_De_Angele/index.html",
+   "ano": null,
+   "pai": "01Giacomo/05Tereza_Felicita",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "residencia": "Vitória"
+   }
+  },
+  "01Giacomo/05Tereza_Felicita/03Joao_De_Angele": {
+   "n": "Joao De Angele",
+   "g": 3,
+   "u": "01Giacomo/05Tereza_Felicita/03Joao_De_Angele/index.html",
+   "ano": null,
+   "pai": "01Giacomo/05Tereza_Felicita",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "residencia": "São João do Oriente, Distrito de Jaciguá"
+   }
+  },
+  "01Giacomo/05Tereza_Felicita/04Marco_De_Angele": {
+   "n": "Marco De Angele",
+   "g": 3,
+   "u": "01Giacomo/05Tereza_Felicita/04Marco_De_Angele/index.html",
+   "ano": null,
+   "pai": "01Giacomo/05Tereza_Felicita",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "residencia": "Vitória"
+   }
+  },
+  "01Giacomo/05Tereza_Felicita/05Benjamim_De_Angele": {
+   "n": "Benjamim De Angele",
+   "g": 3,
+   "u": "01Giacomo/05Tereza_Felicita/05Benjamim_De_Angele/index.html",
+   "ano": null,
+   "pai": "01Giacomo/05Tereza_Felicita",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "residencia": "Jacigua"
+   }
+  },
+  "01Giacomo/05Tereza_Felicita/06Antonio_De_Angele": {
+   "n": "Antonio De Angele",
+   "g": 3,
+   "u": "01Giacomo/05Tereza_Felicita/06Antonio_De_Angele/index.html",
+   "ano": null,
+   "pai": "01Giacomo/05Tereza_Felicita",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "falecimento": "in memoriam",
+    "residencia": "Jacigua"
+   }
+  },
+  "01Giacomo/05Tereza_Felicita/07Alexandre_De_Angele": {
+   "n": "Alexandre De Angele",
+   "g": 3,
+   "u": "01Giacomo/05Tereza_Felicita/07Alexandre_De_Angele/index.html",
+   "ano": null,
+   "pai": "01Giacomo/05Tereza_Felicita",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "residencia": "Jacigua"
+   }
+  },
+  "02Ballarini/01Domenico": {
+   "n": "Domenico",
+   "g": 1,
+   "u": "02Ballarini/01Domenico/index.html",
+   "ano": null,
+   "pai": null,
+   "filhos": [
+    "02Ballarini/01Domenico/01Francisco"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Catharina"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco": {
+   "n": "Francisco",
+   "g": 2,
+   "u": "02Ballarini/01Domenico/01Francisco/index.html",
+   "ano": 1890,
+   "pai": "02Ballarini/01Domenico",
+   "filhos": [
+    "02Ballarini/01Domenico/01Francisco/00Amelia",
+    "02Ballarini/01Domenico/01Francisco/00Assunta",
+    "02Ballarini/01Domenico/01Francisco/00Deolinda",
+    "02Ballarini/01Domenico/01Francisco/00Firmino",
+    "02Ballarini/01Domenico/01Francisco/00Idalina",
+    "02Ballarini/01Domenico/01Francisco/00Ilidio",
+    "02Ballarini/01Domenico/01Francisco/00Rosalina",
+    "02Ballarini/01Domenico/01Francisco/08Teodoro"
+   ],
+   "vivo": false,
+   "campos": {
+    "nascimento": "~1890, Itália",
+    "conjuge": "Catarina Magri"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/00Amelia": {
+   "n": "Amelia",
+   "g": 3,
+   "u": "02Ballarini/01Domenico/01Francisco/00Amelia/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Assunta": {
+   "n": "Assunta",
+   "g": 3,
+   "u": "02Ballarini/01Domenico/01Francisco/00Assunta/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Deolinda": {
+   "n": "Deolinda",
+   "g": 3,
+   "u": "02Ballarini/01Domenico/01Francisco/00Deolinda/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Firmino": {
+   "n": "Firmino",
+   "g": 3,
+   "u": "02Ballarini/01Domenico/01Francisco/00Firmino/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina": {
+   "n": "Idalina",
+   "g": 3,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco",
+   "filhos": [
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Francisco_Andre",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Luiza_Odete",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Renato",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "André"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina": {
+   "n": "Catarina",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
+   "filhos": [
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Andernson",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Luciele",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Marcela"
+   ],
+   "vivo": true,
+   "campos": {
+    "conjuge": "Valter"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Andernson": {
+   "n": "Andernson",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Andernson/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Luciele": {
+   "n": "Luciele",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Luciele/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Marcela": {
+   "n": "Marcela",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina/00Marcela/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Catarina",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor": {
+   "n": "Claudionor",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
+   "filhos": [
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Carina",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Lucas",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Rodrigo"
+   ],
+   "vivo": true,
+   "campos": {
+    "conjuge": "Santina"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Carina": {
+   "n": "Carina",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Carina/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda": {
+   "n": "Fernanda",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor",
+   "filhos": [
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda/00CÈlio"
+   ],
+   "vivo": true,
+   "campos": {
+    "conjuge": "Claudinei"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda/00CÈlio": {
+   "n": "Célio",
+   "g": 6,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda/00CÈlio/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Fernanda",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Lucas": {
+   "n": "Lucas",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Lucas/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Rodrigo": {
+   "n": "Rodrigo",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor/00Rodrigo/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Claudionor",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina": {
+   "n": "Dozolina",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
+   "filhos": [
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/00Rafael",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/00Suzana"
+   ],
+   "vivo": true,
+   "campos": {
+    "conjuge": "João"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/00Rafael": {
+   "n": "Rafael",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/00Rafael/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/00Suzana": {
+   "n": "Suzana",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina/00Suzana/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Dozolina",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Francisco_Andre": {
+   "n": "Francisco Andre",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Francisco_Andre/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo": {
+   "n": "Jose Alfredo",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
+   "filhos": [
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Aline",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Diogo",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Fabio"
+   ],
+   "vivo": true,
+   "campos": {
+    "conjuge": "Adelia"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Aline": {
+   "n": "Aline",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Aline/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Diogo": {
+   "n": "Diogo",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Diogo/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Fabio": {
+   "n": "Fabio",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo/00Fabio/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Jose_Alfredo",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Luiza_Odete": {
+   "n": "Luiza Odete",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Luiza_Odete/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo": {
+   "n": "Maximo",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
+   "filhos": [
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/00Danielle",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/00Max"
+   ],
+   "vivo": true,
+   "campos": {
+    "conjuge": "Quitéria"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/00Danielle": {
+   "n": "Danielle",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/00Danielle/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/00Max": {
+   "n": "Max",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo/00Max/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Maximo",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino": {
+   "n": "Osvino",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
+   "filhos": [
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino/00Daiane"
+   ],
+   "vivo": true,
+   "campos": {
+    "conjuge": "Ana"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino/00Daiane": {
+   "n": "Daiane",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino/00Daiane/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Osvino",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Renato": {
+   "n": "Renato",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Renato/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
+   "filhos": [],
+   "vivo": true,
+   "campos": {
+    "conjuge": "Néia"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita": {
+   "n": "Rita",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
+   "filhos": [
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/00Leonardo",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/00Vaneza"
+   ],
+   "vivo": true,
+   "campos": {
+    "conjuge": "Ademir"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/00Leonardo": {
+   "n": "Leonardo",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/00Leonardo/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/00Vaneza": {
+   "n": "Vaneza",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita/00Vaneza/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Rita",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso": {
+   "n": "Tarciso",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina",
+   "filhos": [
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/00Nidia",
+    "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/00Tais"
+   ],
+   "vivo": true,
+   "campos": {
+    "conjuge": "Maria"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/00Nidia": {
+   "n": "Nidia",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/00Nidia/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/00Tais": {
+   "n": "Tais",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso/00Tais/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/00Idalina/00Tarciso",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Ilidio": {
+   "n": "Ilidio",
+   "g": 3,
+   "u": "02Ballarini/01Domenico/01Francisco/00Ilidio/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/00Rosalina": {
+   "n": "Rosalina",
+   "g": 3,
+   "u": "02Ballarini/01Domenico/01Francisco/00Rosalina/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Domingos Zampirolli"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/08Teodoro": {
+   "n": "Teodoro",
+   "g": 3,
+   "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco",
+   "filhos": [
+    "02Ballarini/01Domenico/01Francisco/08Teodoro/01Sonia",
+    "02Ballarini/01Domenico/01Francisco/08Teodoro/02Luiz_Mario",
+    "02Ballarini/01Domenico/01Francisco/08Teodoro/03Rosana",
+    "02Ballarini/01Domenico/01Francisco/08Teodoro/04Paulo",
+    "02Ballarini/01Domenico/01Francisco/08Teodoro/05Avilmar",
+    "02Ballarini/01Domenico/01Francisco/08Teodoro/06Helio_Marcos"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Teodósia Altoé"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/08Teodoro/01Sonia": {
+   "n": "Sonia",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/01Sonia/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/08Teodoro",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/08Teodoro/02Luiz_Mario": {
+   "n": "Luiz Mario",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/02Luiz_Mario/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/08Teodoro",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/08Teodoro/03Rosana": {
+   "n": "Rosana",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/03Rosana/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/08Teodoro",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/08Teodoro/04Paulo": {
+   "n": "Paulo",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/04Paulo/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/08Teodoro",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/08Teodoro/05Avilmar": {
+   "n": "Avilmar",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/05Avilmar/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/08Teodoro",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "02Ballarini/01Domenico/01Francisco/08Teodoro/06Helio_Marcos": {
+   "n": "Helio Marcos",
+   "g": 4,
+   "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/06Helio_Marcos/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/08Teodoro",
+   "filhos": [
+    "02Ballarini/01Domenico/01Francisco/08Teodoro/06Helio_Marcos/00Filipe"
+   ],
+   "vivo": true,
+   "campos": {
+    "conjuge": "Silvana"
+   }
+  },
+  "02Ballarini/01Domenico/01Francisco/08Teodoro/06Helio_Marcos/00Filipe": {
+   "n": "Filipe",
+   "g": 5,
+   "u": "02Ballarini/01Domenico/01Francisco/08Teodoro/06Helio_Marcos/00Filipe/index.html",
+   "ano": null,
+   "pai": "02Ballarini/01Domenico/01Francisco/08Teodoro/06Helio_Marcos",
+   "filhos": [],
+   "vivo": true,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe": {
+   "n": "Giuseppe",
+   "g": 1,
+   "u": "04Magri/00Giuseppe/index.html",
+   "ano": 1861,
+   "pai": null,
+   "filhos": [
+    "04Magri/00Giuseppe/00Carlos",
+    "04Magri/00Giuseppe/00Catharina",
+    "04Magri/00Giuseppe/00Francisco",
+    "04Magri/00Giuseppe/00Ildegarda",
+    "04Magri/00Giuseppe/00Maria",
+    "04Magri/00Giuseppe/00Pascoal",
+    "04Magri/00Giuseppe/00Rosa",
+    "04Magri/00Giuseppe/00Zulmira"
+   ],
+   "vivo": false,
+   "campos": {
+    "nascimento": "~1861, Mirândola, Província de Módena, Itália",
+    "conjuge": "Mansueta Polastri (~1860)"
+   }
+  },
+  "04Magri/00Giuseppe/00Carlos": {
+   "n": "Carlos",
+   "g": 2,
+   "u": "04Magri/00Giuseppe/00Carlos/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe",
+   "filhos": [
+    "04Magri/00Giuseppe/00Carlos/00Alaides",
+    "04Magri/00Giuseppe/00Carlos/00Alcebiades",
+    "04Magri/00Giuseppe/00Carlos/00Alderina",
+    "04Magri/00Giuseppe/00Carlos/00Amilton",
+    "04Magri/00Giuseppe/00Carlos/00Elias",
+    "04Magri/00Giuseppe/00Carlos/00Emidio",
+    "04Magri/00Giuseppe/00Carlos/00Orestes",
+    "04Magri/00Giuseppe/00Carlos/00Rosa",
+    "04Magri/00Giuseppe/00Carlos/00Valdemar"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Adélia Bersan"
+   }
+  },
+  "04Magri/00Giuseppe/00Carlos/00Alaides": {
+   "n": "Alaides",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Carlos/00Alaides/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Carlos",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Carlos/00Alcebiades": {
+   "n": "Alcebiades",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Carlos/00Alcebiades/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Carlos",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Carlos/00Alderina": {
+   "n": "Alderina",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Carlos/00Alderina/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Carlos",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Carlos/00Amilton": {
+   "n": "Amilton",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Carlos/00Amilton/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Carlos",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Carlos/00Elias": {
+   "n": "Elias",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Carlos/00Elias/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Carlos",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Carlos/00Emidio": {
+   "n": "Emidio",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Carlos/00Emidio/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Carlos",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Carlos/00Orestes": {
+   "n": "Orestes",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Carlos/00Orestes/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Carlos",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Carlos/00Rosa": {
+   "n": "Rosa",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Carlos/00Rosa/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Carlos",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Carlos/00Valdemar": {
+   "n": "Valdemar",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Carlos/00Valdemar/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Carlos",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Catharina": {
+   "n": "Catharina",
+   "g": 2,
+   "u": "04Magri/00Giuseppe/00Catharina/index.html",
+   "ano": 1890,
+   "pai": "04Magri/00Giuseppe",
+   "filhos": [],
+   "vivo": false,
+   "campos": {
+    "nascimento": "~1890, Itália",
+    "conjuge": "Francisco"
+   }
+  },
+  "04Magri/00Giuseppe/00Francisco": {
+   "n": "Francisco",
+   "g": 2,
+   "u": "04Magri/00Giuseppe/00Francisco/index.html",
+   "ano": 1889,
+   "pai": "04Magri/00Giuseppe",
+   "filhos": [
+    "04Magri/00Giuseppe/00Francisco/00Agilio",
+    "04Magri/00Giuseppe/00Francisco/00Anuncio",
+    "04Magri/00Giuseppe/00Francisco/00Ermildo",
+    "04Magri/00Giuseppe/00Francisco/00Jose",
+    "04Magri/00Giuseppe/00Francisco/00Ozilia",
+    "04Magri/00Giuseppe/00Francisco/00Pedro"
+   ],
+   "vivo": false,
+   "campos": {
+    "nascimento": "~1889, Itália",
+    "conjuge": "Hortência Laquini"
+   }
+  },
+  "04Magri/00Giuseppe/00Francisco/00Agilio": {
+   "n": "Agilio",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Francisco/00Agilio/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Francisco/00Anuncio": {
+   "n": "Anuncio",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Francisco/00Anuncio/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Francisco/00Ermildo": {
+   "n": "Ermildo",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Francisco/00Ermildo/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Francisco/00Jose": {
+   "n": "Jose",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Francisco/00Jose/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Francisco/00Ozilia": {
+   "n": "Ozilia",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Francisco/00Ozilia/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Francisco/00Pedro": {
+   "n": "Pedro",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Francisco/00Pedro/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Francisco",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Ildegarda": {
+   "n": "Ildegarda",
+   "g": 2,
+   "u": "04Magri/00Giuseppe/00Ildegarda/index.html",
+   "ano": 1890,
+   "pai": "04Magri/00Giuseppe",
+   "filhos": [
+    "04Magri/00Giuseppe/00Ildegarda/00Abilio",
+    "04Magri/00Giuseppe/00Ildegarda/00Egidio",
+    "04Magri/00Giuseppe/00Ildegarda/00Emidio",
+    "04Magri/00Giuseppe/00Ildegarda/00Ildegarda",
+    "04Magri/00Giuseppe/00Ildegarda/00Rosalina"
+   ],
+   "vivo": false,
+   "campos": {
+    "nascimento": "~1890, Itália",
+    "conjuge": "JÚLIO SIPRIANI"
+   }
+  },
+  "04Magri/00Giuseppe/00Ildegarda/00Abilio": {
+   "n": "Abilio",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Ildegarda/00Abilio/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Ildegarda",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Ildegarda/00Egidio": {
+   "n": "Egidio",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Ildegarda/00Egidio/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Ildegarda",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Ildegarda/00Emidio": {
+   "n": "Emidio",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Ildegarda/00Emidio/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Ildegarda",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Ildegarda/00Ildegarda": {
+   "n": "Ildegarda",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Ildegarda/00Ildegarda/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Ildegarda",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Ildegarda/00Rosalina": {
+   "n": "Rosalina",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Ildegarda/00Rosalina/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Ildegarda",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Maria": {
+   "n": "Maria",
+   "g": 2,
+   "u": "04Magri/00Giuseppe/00Maria/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe",
+   "filhos": [
+    "04Magri/00Giuseppe/00Maria/00Afonso",
+    "04Magri/00Giuseppe/00Maria/00Alcides",
+    "04Magri/00Giuseppe/00Maria/00Alecio",
+    "04Magri/00Giuseppe/00Maria/00Antonio",
+    "04Magri/00Giuseppe/00Maria/00Artur",
+    "04Magri/00Giuseppe/00Maria/00Izolina",
+    "04Magri/00Giuseppe/00Maria/00Nila"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Hermínio Bersan"
+   }
+  },
+  "04Magri/00Giuseppe/00Maria/00Afonso": {
+   "n": "Afonso",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Maria/00Afonso/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Maria",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Maria/00Alcides": {
+   "n": "Alcides",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Maria/00Alcides/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Maria",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Maria/00Alecio": {
+   "n": "Alecio",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Maria/00Alecio/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Maria",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Maria/00Antonio": {
+   "n": "Antonio",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Maria/00Antonio/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Maria",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Maria/00Artur": {
+   "n": "Artur",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Maria/00Artur/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Maria",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Maria/00Izolina": {
+   "n": "Izolina",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Maria/00Izolina/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Maria",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Maria/00Nila": {
+   "n": "Nila",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Maria/00Nila/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Maria",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Pascoal": {
+   "n": "Pascoal",
+   "g": 2,
+   "u": "04Magri/00Giuseppe/00Pascoal/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe",
+   "filhos": [
+    "04Magri/00Giuseppe/00Pascoal/00Alfina",
+    "04Magri/00Giuseppe/00Pascoal/00Alice",
+    "04Magri/00Giuseppe/00Pascoal/00Elza",
+    "04Magri/00Giuseppe/00Pascoal/00Joao",
+    "04Magri/00Giuseppe/00Pascoal/00Jose",
+    "04Magri/00Giuseppe/00Pascoal/00Maria",
+    "04Magri/00Giuseppe/00Pascoal/00Tereza",
+    "04Magri/00Giuseppe/00Pascoal/00Valter"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Marcela Laquini"
+   }
+  },
+  "04Magri/00Giuseppe/00Pascoal/00Alfina": {
+   "n": "Alfina",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Pascoal/00Alfina/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Pascoal",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Pascoal/00Alice": {
+   "n": "Alice",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Pascoal/00Alice/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Pascoal",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Pascoal/00Elza": {
+   "n": "Elza",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Pascoal/00Elza/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Pascoal",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Pascoal/00Joao": {
+   "n": "Joao",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Pascoal/00Joao/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Pascoal",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Pascoal/00Jose": {
+   "n": "Jose",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Pascoal/00Jose/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Pascoal",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Pascoal/00Maria": {
+   "n": "Maria",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Pascoal/00Maria/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Pascoal",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Pascoal/00Tereza": {
+   "n": "Tereza",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Pascoal/00Tereza/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Pascoal",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Pascoal/00Valter": {
+   "n": "Valter",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Pascoal/00Valter/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Pascoal",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Rosa": {
+   "n": "Rosa",
+   "g": 2,
+   "u": "04Magri/00Giuseppe/00Rosa/index.html",
+   "ano": 1887,
+   "pai": "04Magri/00Giuseppe",
+   "filhos": [
+    "04Magri/00Giuseppe/00Rosa/00Amelio",
+    "04Magri/00Giuseppe/00Rosa/00Americo",
+    "04Magri/00Giuseppe/00Rosa/00Dumitila",
+    "04Magri/00Giuseppe/00Rosa/00Fioro",
+    "04Magri/00Giuseppe/00Rosa/00Vergilio"
+   ],
+   "vivo": false,
+   "campos": {
+    "nascimento": "~1887, Itália",
+    "conjuge": "Luiz Fabris"
+   }
+  },
+  "04Magri/00Giuseppe/00Rosa/00Amelio": {
+   "n": "Amelio",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Rosa/00Amelio/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Rosa",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Rosa/00Americo": {
+   "n": "Americo",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Rosa/00Americo/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Rosa",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Rosa/00Dumitila": {
+   "n": "Dumitila",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Rosa/00Dumitila/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Rosa",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Rosa/00Fioro": {
+   "n": "Fioro",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Rosa/00Fioro/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Rosa",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Rosa/00Vergilio": {
+   "n": "Vergilio",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Rosa/00Vergilio/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Rosa",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Zulmira": {
+   "n": "Zulmira",
+   "g": 2,
+   "u": "04Magri/00Giuseppe/00Zulmira/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe",
+   "filhos": [
+    "04Magri/00Giuseppe/00Zulmira/00Almelinda",
+    "04Magri/00Giuseppe/00Zulmira/00Angelica",
+    "04Magri/00Giuseppe/00Zulmira/00Antonio",
+    "04Magri/00Giuseppe/00Zulmira/00Cecilia",
+    "04Magri/00Giuseppe/00Zulmira/00Joao",
+    "04Magri/00Giuseppe/00Zulmira/00Joaquim",
+    "04Magri/00Giuseppe/00Zulmira/00Leonora_Rita",
+    "04Magri/00Giuseppe/00Zulmira/00Olinda",
+    "04Magri/00Giuseppe/00Zulmira/00Primo",
+    "04Magri/00Giuseppe/00Zulmira/00Rosalina"
+   ],
+   "vivo": false,
+   "campos": {
+    "conjuge": "Constante Calegari"
+   }
+  },
+  "04Magri/00Giuseppe/00Zulmira/00Almelinda": {
+   "n": "Almelinda",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Zulmira/00Almelinda/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Zulmira",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Zulmira/00Angelica": {
+   "n": "Angelica",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Zulmira/00Angelica/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Zulmira",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Zulmira/00Antonio": {
+   "n": "Antonio",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Zulmira/00Antonio/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Zulmira",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Zulmira/00Cecilia": {
+   "n": "Cecilia",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Zulmira/00Cecilia/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Zulmira",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Zulmira/00Joao": {
+   "n": "Joao",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Zulmira/00Joao/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Zulmira",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Zulmira/00Joaquim": {
+   "n": "Joaquim",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Zulmira/00Joaquim/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Zulmira",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Zulmira/00Leonora_Rita": {
+   "n": "Leonora Rita",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Zulmira/00Leonora_Rita/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Zulmira",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Zulmira/00Olinda": {
+   "n": "Olinda",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Zulmira/00Olinda/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Zulmira",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Zulmira/00Primo": {
+   "n": "Primo",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Zulmira/00Primo/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Zulmira",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  },
+  "04Magri/00Giuseppe/00Zulmira/00Rosalina": {
+   "n": "Rosalina",
+   "g": 3,
+   "u": "04Magri/00Giuseppe/00Zulmira/00Rosalina/index.html",
+   "ano": null,
+   "pai": "04Magri/00Giuseppe/00Zulmira",
+   "filhos": [],
+   "vivo": false,
+   "campos": {}
+  }
+ }
+}
